@@ -1,0 +1,56 @@
+/*!
+ * Bootstrap v3.3.7 (http://getbootstrap.com)
+ * Copyright 2011-2016 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
+ */
+
+// Core variables and mixins
+@import "/assets/sass/bootstrap/variables";
+@import "/assets/sass/bootstrap/mixins";
+
+// Reset and dependencies
+@import "/assets/sass/bootstrap/normalize";
+@import "/assets/sass/bootstrap/print";
+@import "/assets/sass/bootstrap/glyphicons";
+
+// Core CSS
+@import "/assets/sass/bootstrap/scaffolding";
+@import "/assets/sass/bootstrap/type";
+@import "/assets/sass/bootstrap/code";
+@import "/assets/sass/bootstrap/grid";
+@import "/assets/sass/bootstrap/tables";
+@import "/assets/sass/bootstrap/forms";
+@import "/assets/sass/bootstrap/buttons";
+
+// Components
+@import "/assets/sass/bootstrap/component-animations";
+@import "/assets/sass/bootstrap/dropdowns";
+@import "/assets/sass/bootstrap/button-groups";
+@import "/assets/sass/bootstrap/input-groups";
+@import "/assets/sass/bootstrap/navs";
+@import "/assets/sass/bootstrap/navbar";
+@import "/assets/sass/bootstrap/breadcrumbs";
+@import "/assets/sass/bootstrap/pagination";
+@import "/assets/sass/bootstrap/pager";
+@import "/assets/sass/bootstrap/labels";
+@import "/assets/sass/bootstrap/badges";
+@import "/assets/sass/bootstrap/jumbotron";
+@import "/assets/sass/bootstrap/thumbnails";
+@import "/assets/sass/bootstrap/alerts";
+@import "/assets/sass/bootstrap/progress-bars";
+@import "/assets/sass/bootstrap/media";
+@import "/assets/sass/bootstrap/list-group";
+@import "/assets/sass/bootstrap/panels";
+@import "/assets/sass/bootstrap/responsive-embed";
+@import "/assets/sass/bootstrap/wells";
+@import "/assets/sass/bootstrap/close";
+
+// Components w/ JavaScript
+@import "/assets/sass/bootstrap/modals";
+@import "/assets/sass/bootstrap/tooltip";
+@import "/assets/sass/bootstrap/popovers";
+@import "/assets/sass/bootstrap/carousel";
+
+// Utility classes
+@import "/assets/sass/bootstrap/utilities";
+@import "/assets/sass/bootstrap/responsive-utilities";
