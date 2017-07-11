@@ -11,6 +11,7 @@
   padding-left: 0; // Override default ul/ol
   list-style: none;
   @include clearfix;
+  transition: color .3s ease;
 
   > li {
     position: relative;
@@ -20,10 +21,13 @@
       position: relative;
       display: block;
       padding: $nav-link-padding;
-      &:hover,
+	  font-weight: 600;
+	  transition: color .3s ease;
+      &:hover, &:active,
       &:focus {
         text-decoration: none;
-        background-color: $nav-link-hover-bg;
+		color: $brand-primary;
+//        background-color: $nav-link-hover-bg;
       }
     }
 
@@ -39,6 +43,12 @@
         cursor: $cursor-disabled;
       }
     }
+	  
+  }
+	
+  &:hover a,
+  &:focus a {
+    color: $nav-link-hover-bg; //Mutes non-active links
   }
 
   // Open dropdowns

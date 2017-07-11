@@ -53,3 +53,21 @@
 .affix {
   position: fixed;
 }
+
+// Added Styles
+// -------------------------
+
+.footer {
+	min-height: $navbar-height;
+	padding: $navbar-padding-vertical $navbar-padding-horizontal;
+	color: #fff;
+	
+	a { color: #fff; }
+}
+
+.social-icons {
+	transition: all .3s ease;
+	
+	a:hover img,
+	a:focus img { opacity: .6; }
+}
