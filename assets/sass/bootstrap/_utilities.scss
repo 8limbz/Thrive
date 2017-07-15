@@ -54,8 +54,19 @@
   position: fixed;
 }
 
-// Added Styles
+// Center Vertically & Horizontally 
 // -------------------------
+.always-center {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+
+// Custom Homepage
+// -------------------------
+
+body.home { margin-top: 450px; }
 
 .video {
 	position: absolute;
@@ -65,6 +76,11 @@
 	min-height: 100vh;
 	top: 50%; left: 50%;
 	transform: translate(-50%, -50%);
+}
+.video-logo {
+	max-width: 100%;
+	padding: $navbar-padding-vertical $navbar-padding-horizontal;
+	margin-top: -2%;
 }
 .video-container {
 	position: fixed;
@@ -78,15 +94,65 @@
 	position: absolute;
 	width: 100vw;
 	min-width: 177.77vh;
-	height: 56.25vw;
+	height: 450px;
 	min-height: 100vh;
+	margin-top: $navbar-height;
+	top: 0; left: 0;
 	float: left;
-//	background: linear-gradient(to bottom right, rgba(241,92,42,.8), rgba(0,176,179,.8));;
-	@include gradient-directional(rgba(241,92,42,.6), rgba(0,176,179,.3), 315deg);
+	background: linear-gradient(to bottom right, rgba(0,176,179,.2), rgba(0,176,179,.6));;
+	@include gradient-directional(rgba(0,176,179,.2), rgba(0,176,179,.6), 315deg);
 }
-.about {
-	margin-top: 450px;
+.flex-container {
+  padding: 0;
+  margin: 0;
+  background-color: #fff;
+  list-style: none;
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-flow: row wrap;
+  flex-flow: row wrap;
+	
+	>* { flex: 1 100%; }
+}
+.flex-item {
+  padding: 5px;
+  line-height: $line-height-computed;
+  @include transition(flex 350ms cubic-bezier(0.18, 0.61, 0.38, 0.87));
+}
+.hp-1 {
+	position: relative;
+	padding: 15px 0;
 	background-color: #fff;
+	
+	p { padding: 135px 15px 40px; }
+	
+	@media (min-width: $screen-md-min) {
+	  flex: 1 0px;
+	  order: 1;
+	}
+}
+.hp-2 {
+	min-height: 300px;
+	width: 100%;
+	background-image: url("/assets/images/img1.jpg");
+	background-position: 0 0;
+	background-size: cover;
+	
+	@media (min-width: $screen-md-min) {
+	  flex: 1 0px;
+	  order: 2;
+	}
+}
+
+.hp-3 {
+	position: relative;
+	
+	@media (min-width: $screen-md-min) {
+		order: 3;
+	}
 }
 
 .footer {

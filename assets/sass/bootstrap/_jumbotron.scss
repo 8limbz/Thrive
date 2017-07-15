@@ -4,11 +4,14 @@
 
 
 .jumbotron {
+  min-height: 450px;
   padding-top:    $jumbotron-padding;
   padding-bottom: $jumbotron-padding;
   margin-bottom: $jumbotron-padding;
   color: $jumbotron-color;
-  background-color: $jumbotron-bg;
+  background-image: url("/assets/images/hp-slide.jpg");
+  background-size: cover;
+  background-position: bottom center;
 
   h1,
   .h1 {

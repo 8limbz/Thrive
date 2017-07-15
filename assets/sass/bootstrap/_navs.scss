@@ -11,7 +11,7 @@
   padding-left: 0; // Override default ul/ol
   list-style: none;
   @include clearfix;
-  transition: color .3s ease;
+  @include transition(color .3s ease);
 
   > li {
     position: relative;

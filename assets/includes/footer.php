@@ -16,13 +16,13 @@
       </div>
       
       <div class="row">
-      	<div class="col-md-4">
+      	<div class="col-sm-6 col-md-4">
       		<h3>Location</h3>
       		<p>2830 Virginia Beach Blvd.
-      		<br>Virginia Beach, VA 23452
-      		<br>Located in MarketSquare Shopping Center with OneLife Fitness and Hobby Lobby.</p>
+      		<br>Virginia Beach, VA 23452</p>
+      		<a href="https://www.google.com/maps/dir/Current+Location/2830+Virginia+Beach+Blvd+Virginia+Beach+VA+23452" target="_blank"><p>Directions</p></a>
       	</div>
-      	<div class="col-md-4">
+      	<div class="col-sm-6 col-md-4">
       		<h3>Hours</h3>
       		<p>M - 9am to 7pm
       		<br>Tu - 7:30am to 7pm
