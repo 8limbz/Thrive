@@ -6,7 +6,7 @@
       
       <div class="row">
         <div class="col-sm-12">
-          <ul class="text-center list-unstyled list-inline social-icons">
+          <ul class="list-unstyled list-inline social-icons">
             <li><a href="https://www.facebook.com/thrivevb/" target="_blank"><img class="img-responsive" src="/assets/images/social-icons/fb-circle.svg" alt="Thrive Proactive Health Facebook"></a></li>
             <li><a href="https://www.instagram.com/thrivevb/" target="_blank"><img class="img-responsive" src="/assets/images/social-icons/insta-circle.svg" alt="Thrive Proactive Health Instagram"></a></li>
             <li><a href="https://twitter.com/thrive757" target="_blank"><img class="img-responsive" src="/assets/images/social-icons/twitter-circle.svg" alt="Thrive Proactive Health Twitter"></a></li>
@@ -20,7 +20,9 @@
       		<h3>Location</h3>
       		<p>2830 Virginia Beach Blvd.
       		<br>Virginia Beach, VA 23452</p>
-      		<a href="https://www.google.com/maps/dir/Current+Location/2830+Virginia+Beach+Blvd+Virginia+Beach+VA+23452" target="_blank"><p>Directions</p></a>
+      		<p><a href="https://www.google.com/maps/dir/Current+Location/2830+Virginia+Beach+Blvd+Virginia+Beach+VA+23452" target="_blank">Directions</a><br>
+			<a href="tel:757-416-6700">Call Us</a><br>
+     		<a href="fax:1*757-416-7777">Send Fax</a></p>
       	</div>
       	<div class="col-sm-6 col-md-4">
       		<h3>Hours</h3>
@@ -35,7 +37,7 @@
       	<div class="col-md-4">
       		<h3>Contact Us</h3>
       		
-			<!-- Footer -->
+			<!-- Footer Form -->
       		<form id="form12" name="form12" class="wufoo topLabel page" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate action="https://s1mon.wufoo.com/forms/z106zgp6079yqha/#public">
   
 			<div class="row">
@@ -69,7 +71,7 @@
 				</div>
 				<div class="buttons ">
 					<div>
-						<input id="saveForm" name="saveForm" class="btTxt submit btn btn-default" type="submit" value="Submit"
+						<input id="saveForm" name="saveForm" class="btTxt submit btn btn-default col-xs-12" type="submit" value="Submit"
 					 />
 					</div>
 				</div>
@@ -82,21 +84,23 @@
 		</form>
       	</div>
       </div>
-      
-      <div class="row">
-        <div class="col-sm-12">
-          <ul class="text-center list-unstyled list-inline small">
-            <li class="pull-left"><?php auto_copyright();?> Thrive Proactive Health</li>
-            <li class="pull-right"><a href="#">Privacy Policy</a></li>
-            <li class="pull-right"><a href="#">Terms &amp; Conditions</a></li>
-          </ul>
-        </div>
-      </div>
-      
     </div>
     </div>
   </section>
 </footer>
+<div class="copyright">
+	<div class="container">
+	  <div class="row">
+		<div class="col-sm-12">
+		  <ul class="text-center list-unstyled list-inline small">
+			<li class="pull-left"><?php auto_copyright();?> Thrive Proactive Health</li>
+			  <li class="pull-right"><a href="#">Privacy Policy</a></li>
+			  <li class="pull-right"><a href="#">Terms &amp; Conditions</a></li>
+		  </ul>
+		</div>
+    </div>
+  </div>
+</div>
 
 <!--<script src="/assets/js/main.js"></script>-->
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g=" crossorigin="anonymous"></script>

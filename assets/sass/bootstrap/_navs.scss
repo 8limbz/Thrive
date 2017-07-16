@@ -50,13 +50,18 @@
   &:focus a {
     color: $nav-link-hover-bg; //Mutes non-active links
   }
+  
+  &:hover .dropdown-menu a,
+  &:focus .dropdown-menu a {
+	  color: $brand-primary;
+	}
 
   // Open dropdowns
   .open > a {
     &,
     &:hover,
     &:focus {
-      background-color: $nav-link-hover-bg;
+//      background-color: $nav-link-hover-bg;
       border-color: $link-color;
     }
   }

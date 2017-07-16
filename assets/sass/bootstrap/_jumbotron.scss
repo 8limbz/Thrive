@@ -4,18 +4,28 @@
 
 
 .jumbotron {
-  min-height: 450px;
-  padding-top:    $jumbotron-padding;
+  position: relative;
+  min-height: 250px;
+  padding-top:    70px;
   padding-bottom: $jumbotron-padding;
   margin-bottom: $jumbotron-padding;
   color: $jumbotron-color;
   background-image: url("/assets/images/hp-slide.jpg");
   background-size: cover;
-  background-position: bottom center;
+  background-position: center center;
+  overflow: hidden;
+	
+	&.about-us { background-image: url("/assets/images/about-bg.jpg")}
 
   h1,
   .h1 {
+	position: absolute;
     color: $jumbotron-heading-color;
+	font-size: 48px;
+	font-weight: 700;
+	text-transform: uppercase;
+	letter-spacing: .1rem;
+	z-index: 1;
   }
 
   p {
@@ -40,7 +50,7 @@
   }
 
   @media screen and (min-width: $screen-sm-min) {
-    padding-top:    ($jumbotron-padding * 1.6);
+    padding-top:    68px;
     padding-bottom: ($jumbotron-padding * 1.6);
 
     .container &,

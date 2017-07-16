@@ -54,20 +54,33 @@
   position: fixed;
 }
 
-// Center Vertically & Horizontally 
+
+// Added Styles
 // -------------------------
-.always-center {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translate(-50%, -50%);
-}
+
 
 // Custom Homepage
-// -------------------------
+body.home { 
+	margin-top: 450px; 
+	
+	.footer {
+		margin-top: 0;
+	}
+}
 
-body.home { margin-top: 450px; }
 
+//Homepage Video
+.video-container {
+	position: fixed;
+	top: 0; left: 0;
+	width: 100%;
+	height: 100%;
+	background-image: url("/assets/images/hp-slide.jpg");
+    background-size: cover;
+    background-position: bottom center;
+	overflow: hidden;
+	z-index: -1;
+}
 .video {
 	position: absolute;
 	width: 100vw;
@@ -77,31 +90,50 @@ body.home { margin-top: 450px; }
 	top: 50%; left: 50%;
 	transform: translate(-50%, -50%);
 }
+
 .video-logo {
 	max-width: 100%;
-	padding: $navbar-padding-vertical $navbar-padding-horizontal;
-	margin-top: -2%;
+	padding: 0 $navbar-padding-horizontal;
 }
-.video-container {
-	position: fixed;
-	top: 0; left: 0;
-	width: 100%;
-	height: 100%;
-	overflow: hidden;
-	z-index: -1;
+
+// Center Video Logo 
+.flex-center {
+	display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -300px;
 }
+
+//Video Embeds
+.embed-container {
+	position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 55.99%;
+    overflow: hidden !important;
+}
+.embed-video {
+	position: absolute;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+}
+
+
 .overlay {
 	position: absolute;
 	width: 100vw;
 	min-width: 177.77vh;
 	height: 450px;
 	min-height: 100vh;
-	margin-top: $navbar-height;
 	top: 0; left: 0;
 	float: left;
-	background: linear-gradient(to bottom right, rgba(0,176,179,.2), rgba(0,176,179,.6));;
-	@include gradient-directional(rgba(0,176,179,.2), rgba(0,176,179,.6), 315deg);
+	background-color: rgba(0,176,179,.5);
 }
+
+
+//Homepage Grid
 .flex-container {
   padding: 0;
   margin: 0;
@@ -121,13 +153,12 @@ body.home { margin-top: 450px; }
   padding: 5px;
   line-height: $line-height-computed;
   @include transition(flex 350ms cubic-bezier(0.18, 0.61, 0.38, 0.87));
+	
+	>p { padding: 140px 15px 40px; }
 }
 .hp-1 {
 	position: relative;
 	padding: 15px 0;
-	background-color: #fff;
-	
-	p { padding: 135px 15px 40px; }
 	
 	@media (min-width: $screen-md-min) {
 	  flex: 1 0px;
@@ -149,18 +180,70 @@ body.home { margin-top: 450px; }
 
 .hp-3 {
 	position: relative;
+	padding-bottom: 60px;
+	background-color: lighten($brand-primary, 2%);
+	
+	>*, h3 {color: #fff;}
 	
 	@media (min-width: $screen-md-min) {
 		order: 3;
+		padding-top: 0;
+		
+		.service-line { margin-top: 80px; }
+	}
+}
+.hp-4 {
+	padding: 4px 0 30px;
+	
+	@media (min-width: $screen-md-min) {
+		order: 4;
+	}
+}
+
+//Team Profiles
+.team-thumb {
+	margin-top: ($padding-large-vertical * 3);
+	
+	h4 {
+		font-weight: 600;
+	}
+}
+
+.team-thumb > * {
+	max-width: 400px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+// Homepage Service Lines
+.services-icon {
+	width: 150px;
+	margin-top: 60px;
+}
+
+.service-line {
+	margin-top: 40px;
+	
+	&.first-service {
+		@media (max-width: 979px) {
+			margin-top: 130px;
+		}
+		
+		@media (min-width: 980px) and (max-width: $screen-md-min) {
+			margin-top: 120px;
+		}
 	}
 }
 
 .footer {
 	min-height: $navbar-height;
+	margin-top: ($padding-large-vertical * 5);
 	padding: $navbar-padding-vertical $navbar-padding-horizontal;
 	color: #fff;
+	border-bottom: 1px solid darken($brand-primary, 8%);
 	
-	a { color: #fff; }
+	a, h3 { color: #fff; }
 }
 
 .social-icons {
@@ -168,4 +251,34 @@ body.home { margin-top: 450px; }
 	
 	a:hover img,
 	a:focus img { opacity: .6; }
+	
+	@media (min-width: $screen-sm-min) {
+		text-align: center;
+	}
+}
+
+.copyright {
+	display: block;
+	padding: 20px 15px;
+	color: darken($brand-primary, 32%);
+	background: $brand-primary;
+	border-top: 1px solid lighten($brand-primary, 5%);
+	
+	a { color: darken($brand-primary, 32%); }
+}
+
+// Dark Background for Containers
+.drk {
+	background-color: #f7f7f7;
+}
+
+// Spacing for Page Sections
+.spacing {
+	padding-top: ($padding-large-vertical * 3);
+	padding-bottom: ($padding-large-vertical * 3);
+}
+
+// Spacing for Headers below Image/Video
+.video-header {
+	padding-top: $padding-large-vertical;
 }
