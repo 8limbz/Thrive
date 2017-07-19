@@ -5,17 +5,31 @@
 
 .jumbotron {
   position: relative;
-  min-height: 250px;
+  min-height: 350px;
   padding-top:    70px;
   padding-bottom: $jumbotron-padding;
   margin-bottom: $jumbotron-padding;
   color: $jumbotron-color;
-  background-image: url("/assets/images/hp-slide.jpg");
+  background-image: url("/assets/images/page-banners/hp-slide.jpg");
   background-size: cover;
-  background-position: center center;
+  background-position: top center;
   overflow: hidden;
 	
-	&.about-us { background-image: url("/assets/images/about-bg.jpg")}
+	&.about-us { 
+		background-image: url("/assets/images/page-banners/about-bg.jpg");
+		background-position: left center;
+	}
+	&.for-clients { 
+		background-image: url("/assets/images/page-banners/clients-bg.jpg");
+	}
+	&.appointment {
+		background-image: url("/assets/images/page-banners/appointment-bg.jpg");
+		background-position: center center;
+	}
+	&.contact {
+		background-image: url("/assets/images/page-banners/contact-bg.jpg");
+		background-position: bottom center;
+	}
 
   h1,
   .h1 {

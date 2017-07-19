@@ -158,6 +158,18 @@ output {
   // [converter] extracted textarea& to textarea.form-control
 }
 
+.footer .form-control {
+	color: darken($brand-secondary, 42%);
+	background-color: darken($brand-secondary, 3%);
+	border-color: darken($brand-secondary, 8%);
+	
+	&::-moz-placeholder,
+	&:-ms-input-placeholder,
+	&::-webkit-input-placeholder {
+		color: darken($brand-secondary, 16%)!important;
+	}
+}
+
 // Reset height for `textarea`s
 textarea.form-control {
   height: auto;
@@ -203,7 +215,7 @@ input[type="search"] {
     &.input-lg,
     .input-group-lg & {
       line-height: $input-height-large;
-    }
+    }	  
   }
 }
 

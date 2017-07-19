@@ -68,6 +68,10 @@ body.home {
 	}
 }
 
+.client-page .footer {
+	margin-top: 0;
+}
+
 
 //Homepage Video
 .video-container {
@@ -129,7 +133,7 @@ body.home {
 	min-height: 100vh;
 	top: 0; left: 0;
 	float: left;
-	background-color: rgba(0,176,179,.5);
+	background-color: rgba(0,176,179,.65);
 }
 
 
@@ -181,7 +185,7 @@ body.home {
 .hp-3 {
 	position: relative;
 	padding-bottom: 60px;
-	background-color: lighten($brand-primary, 2%);
+	background-color: lighten($brand-primary, 5%);
 	
 	>*, h3 {color: #fff;}
 	
@@ -193,7 +197,7 @@ body.home {
 	}
 }
 .hp-4 {
-	padding: 4px 0 30px;
+	padding: 24px 0 50px;
 	
 	@media (min-width: $screen-md-min) {
 		order: 4;
@@ -241,13 +245,15 @@ body.home {
 	margin-top: ($padding-large-vertical * 5);
 	padding: $navbar-padding-vertical $navbar-padding-horizontal;
 	color: #fff;
-	border-bottom: 1px solid darken($brand-primary, 8%);
+	border-bottom: 1px solid darken($brand-secondary, 8%);
 	
 	a, h3 { color: #fff; }
 }
 
 .social-icons {
-	transition: all .3s ease;
+	img {
+		transition: all .3s ease;
+	}
 	
 	a:hover img,
 	a:focus img { opacity: .6; }
@@ -260,11 +266,11 @@ body.home {
 .copyright {
 	display: block;
 	padding: 20px 15px;
-	color: darken($brand-primary, 32%);
-	background: $brand-primary;
-	border-top: 1px solid lighten($brand-primary, 5%);
+	color: #fff;
+	background: $brand-secondary;
+	border-top: 1px solid lighten($brand-secondary, 5%);
 	
-	a { color: darken($brand-primary, 32%); }
+	a { color: #fff; }
 }
 
 // Dark Background for Containers
@@ -281,4 +287,34 @@ body.home {
 // Spacing for Headers below Image/Video
 .video-header {
 	padding-top: $padding-large-vertical;
+}
+
+// Spacing for Values
+@media (max-width: $screen-sm-max) {
+	.values {
+		margin-top: ($padding-large-vertical * 3);
+	}
+}
+
+// Adjust headers on Client page
+@media (min-width: $screen-md-min) {
+	.mp h3 { margin-top: 0; }
+}
+
+// Adjusts Padding Between Inputs
+.info-inputs { 
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+// Form Styling
+.req { color: $brand-primary; }
+.label-help { color: #ccc; }
+.margin-remove { margin-left: -15px; }
+
+// Google Map
+#map {
+	position: relative;
+	min-height: 350px;
+	overflow: hidden;
 }

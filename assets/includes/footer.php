@@ -22,7 +22,7 @@
       		<br>Virginia Beach, VA 23452</p>
       		<p><a href="https://www.google.com/maps/dir/Current+Location/2830+Virginia+Beach+Blvd+Virginia+Beach+VA+23452" target="_blank">Directions</a><br>
 			<a href="tel:757-416-6700">Call Us</a><br>
-     		<a href="fax:1*757-416-7777">Send Fax</a></p>
+     		<a href="fax:1*757-416-6700">Send Fax</a></p>
       	</div>
       	<div class="col-sm-6 col-md-4">
       		<h3>Hours</h3>
@@ -38,7 +38,7 @@
       		<h3>Contact Us</h3>
       		
 			<!-- Footer Form -->
-      		<form id="form12" name="form12" class="wufoo topLabel page" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate action="https://s1mon.wufoo.com/forms/z106zgp6079yqha/#public">
+      		<form i="form12" name="form12" class="wufoo topLabel page" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate action="https://s1mon.wufoo.com/forms/z106zgp6079yqha/#public">
   
 			<div class="row">
 				<div id="foli1" class="notranslate       form-group col-sm-6">
@@ -47,7 +47,7 @@
 					</label>
 
 					<div>
-						<input id="Field1" name="Field1" type="text" class="field text small form-control" value="" maxlength="255" tabindex="1" onkeyup=""       required placeholder="Enter Name" />
+						<input id="Field1" name="Field1" type="text" class="field text small form-control" value="" maxlength="255" tabindex="1" onkeyup=""       required placeholder="" />
 					</div>
 				</div>
 				<div id="foli2" class="notranslate       form-group col-sm-6">
@@ -56,7 +56,7 @@
 					</label>
 
 					<div>
-						<input id="Field2" name="Field2" type="email" spellcheck="false" class="field text small form-control" value="" maxlength="255" tabindex="2"       placeholder="Enter Email" required />
+						<input id="Field2" name="Field2" type="email" spellcheck="false" class="field text small form-control" value="" maxlength="255" tabindex="2"       placeholder="" required />
 					</div>
 				</div>
 			</div>
@@ -66,7 +66,7 @@
 					</label>
 
 					<div>
-						<textarea id="Field3" name="Field3" class="field textarea small form-control" spellcheck="true" rows="3" cols="50" tabindex="3" onkeyup="" placeholder="Leave a Message" required  ></textarea>
+						<textarea id="Field3" name="Field3" class="field textarea small form-control" spellcheck="true" rows="3" cols="50" tabindex="3" onkeyup="" placeholder="" required  ></textarea>
 					</div>
 				</div>
 				<div class="buttons ">
@@ -102,14 +102,62 @@
   </div>
 </div>
 
-<!--<script src="/assets/js/main.js"></script>-->
+<!--Bootstrap JS-->
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g=" crossorigin="anonymous"></script>
 <script src="/assets/js/bootstrap.min.js"></script>
-<script src="/assets/js/wufoo.js"></script>
-
 <!-- Typekit Fonts -->
 <script src="https://use.typekit.net/rxa6uum.js"></script>
 <script>try{Typekit.load({ async: true });}catch(e){}</script>
+<!--Google Custom Map-->
+<script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyBupIZpg0jaQTL7tGdtTzHFWiDGb0mc1ng&sensor=false"></script>
+<script type="application/x-javascript" src="/assets/js/gmaps.js"></script>
+<script>
+	$(function(){
+
+    'use strict';
+    
+    var locations = [
+  				['Thrive', 36.8445305,-76.0711749, '<h5>Thrive</h5><p>2830 Virginia Beach Blvd,<br/>Virginia Beach, VA, 23452<br/><a href="https://www.google.com/maps/dir/Current+Location/2830+Virginia+Beach+Blvd+Virginia+Beach+VA+23452">Directions</a></p>']
+		];
+
+		var $mapis = $('#map');
+		var $mapZoom;
+		if($(window).width()<992){
+			$mapZoom = 10;
+		}else{
+			$mapZoom = 15;
+		}
+
+		if ($mapis.length > 0) {
+			var map;
+			map = new GMaps({
+				streetViewControl : true,
+				overviewMapControl: true,
+				mapTypeControl: true,
+				zoomControl : true,
+				panControl : true,
+				scrollwheel: false,
+				center: {lat: 36.8445305, lng: -76.0711749},
+				el: '#map',
+				zoom: $mapZoom,
+				styles: [{"featureType":"all","elementType":"labels.text.fill","stylers":[{"saturation":2},{"color":"#555559"},{"lightness":40}]},{"featureType":"all","elementType":"labels.text.stroke","stylers":[{"visibility":"on"},{"color":"#555559"},{"lightness":16}]},{"featureType":"all","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"administrative","elementType":"geometry.fill","stylers":[{"color":"#555559"},{"lightness":6}]},{"featureType":"administrative","elementType":"geometry.stroke","stylers":[{"color":"#555559"},{"lightness":22},{"weight":1.2}]},{"featureType":"landscape","elementType":"geometry","stylers":[{"color":"#555559"},{"lightness":6}]},{"featureType":"poi","elementType":"geometry","stylers":[{"color":"#555559"},{"lightness":6}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#555559"},{"lightness":17}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"color":"#555559"},{"lightness":35},{"weight":0.2}]},{"featureType":"road.arterial","elementType":"geometry","stylers":[{"color":"#555559"},{"lightness":18}]},{"featureType":"road.local","elementType":"geometry","stylers":[{"color":"#555559"},{"lightness":8}]},{"featureType":"transit","elementType":"geometry","stylers":[{"color":"#555559"},{"lightness":8}]},{"featureType":"water","elementType":"geometry","stylers":[{"color":"#555559"},{"lightness":25}]}]
+			});
+
+
+			for (var i = 0; i < locations.length; i++) {
+    		var loc = locations[i];
+			map.addMarker({
+				position: {lat: loc[1], lng: loc[2]},
+				icon: marker,
+				infoWindow: {
+				content: loc[3]
+				}
+			});
+
+		}
+		}
+});
+</script>
 
 <?php 
 // No argument required for current year.
@@ -135,7 +183,7 @@ function auto_copyright($startYear = null) {
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-xxxxx-xx', 'auto');
+  ga('create', 'UA-77337091-13', 'auto');
   ga('require', 'displayfeatures');
   ga('require', 'linkid');
   ga('send', 'pageview');

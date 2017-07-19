@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<title>About Us - Thrive Proactive Health</title>
+<title>About Us | Thrive Proactive Health</title>
 <!--Metas & Links-->
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/assets/includes/head.php'); ?>
 </head>
@@ -35,8 +35,8 @@
 				</div>
 			</div>
 			<div class="col-md-6">
-				<h2 class="interior-headers video-header centered hidden-md hidden-lg">Our Mission</h2>
-				<h2 class="interior-headers hidden-xs hidden-sm">Our Mission</h2>
+				<h2 class="interior-headers video-header centered hidden-md hidden-lg text-uppercase">Our Mission</h2>
+				<h2 class="interior-headers hidden-xs hidden-sm text-uppercase">Our Mission</h2>
 				<p>Our mission is to responsibly better your health and enhance your wellness by focusing working as a team and providing you with a valuable customer experience.</p>
 			</div>
 		</div>
@@ -47,18 +47,17 @@
 <div class="container spacing">
 	<div class="row text-center">
 		<div class="col-md-offset-2 col-md-8">
-			<h2 class="interior-headers centered">Our Values</h2>
+			<h2 class="interior-headers centered text-uppercase">Our Values</h2>
 		</div>
-		<div class="col-md-4">
+		<div class="col-md-4 values">
 			<h3>Quality</h3>
 			<p>For both our clients and employees, we believe that we are responsible for providing excellent experiences. We hold high standards for ourselves and focus on the constant improvement of our practice. It is our promise to strive to understand and satisfy the needs of your health–and you can trust that we deliver what we promise.</p>
 		</div>
-		<div class="col-md-4">
+		<div class="col-md-4 values">
 			<h3>Innovation</h3>
 			<p>To guarantee results, we develop strategic plans and creative solutions for our clients. Healthcare and technology are ever-changing and advancing; which is why we are dedicated to lifelong education. We are continuously deepening our knowledge and embrace the agility necessary for innovation.</p>
 		</div>
-		<div class="col-md-4">
-			
+		<div class="col-md-4 values">
 			<h3>Teamwork</h3>
 			<p>We’ve created a culture that encourages and thrives off of ‘togetherness’. We believe that when our team works together, you receive the best care and most successful results. Support, respect, and trust within our team ensures that we’re working with a common purpose for your needs.</p>
 		</div>
@@ -69,7 +68,7 @@
 <div class="container spacing">
 	<div class="row">
 		<div class="col-md-offset-2 col-md-8 text-center">
-			<h2 class="interior-headers centered">Our Team</h2>
+			<h2 class="interior-headers centered text-uppercase">Our Team</h2>
 			<p class="col-md-offset-2 col-md-8">We are a team of trained professionals, innovators, life-long learners, and passionate providers</p>
 		</div>
 	

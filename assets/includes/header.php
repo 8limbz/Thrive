@@ -12,7 +12,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        <a class="navbar-brand" href="/"><img class="img-responsive" src="/assets/images/og-thrive-logo.svg" alt="Thrive Proactive Health Logo" /></a>
+        <a class="navbar-brand" href="/"><img class="img-responsive" src="/assets/images/logo/og-thrive-logo.svg" alt="Thrive Proactive Health Logo" /></a>
       </div>
       <div id="navbar" class="collapse navbar-collapse">
         <ul class="nav navbar-nav">

@@ -22,7 +22,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-xs-12 flex-center">
-			<img src="/assets/images/thrive-hrz.svg" class="video-logo" alt="Thrive Proactive Health">
+			<img src="/assets/images/svg/thrive-hrz.svg" class="video-logo" alt="Thrive Proactive Health">
 		</div>
 	</div>
 </div>
@@ -48,7 +48,7 @@
   	
 <!--  	Homepage Service Lines-->
   	<div class="col-md-12">
-  	  <img src="/assets/images/services-icon.svg" alt="Thrive Specialized Services" class="center-block services-icon">
+  	  <img src="/assets/images/svg/services-icon.svg" alt="Thrive Specialized Services" class="center-block services-icon">
   	  <h2 class="text-uppercase special wht">Our Specialized Services Lines</h2>
   	</div>
   	
@@ -68,7 +68,7 @@
   
 <!--  Homepage Booking-->
   <li class="flex-item hp-4 text-center">
-  	<h3 class="text-uppercase">Book Your Appointment Today</h3>
+  	<h2 class="text-uppercase">Book Your Appointment Today</h2>
   	<a href="/appointments">
   		<div class="btn btn-primary">Book Now</div>
   	</a>

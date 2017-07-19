@@ -154,15 +154,15 @@ mark,
 	
 	&:before,
 	&:after{
-		content: url("/assets/images/hr-icon.svg");
+		content: url("/assets/images/svg/hr-icon.svg");
 		position: absolute;
 	}
 	
 	&:before {
-		left: -22px; bottom: -21px;
+		left: -17px; bottom: -17px;
 	}
 	&:after {
-		right: -22px; bottom: -21px;
+		right: -17px; bottom: -17px;
 	}
 	
 	&.wht {
@@ -171,7 +171,7 @@ mark,
 		border-bottom-color: #fff;
 		
 		&:before,
-		&:after { content: url("/assets/images/hr-icon-wht.svg")}
+		&:after { content: url("/assets/images/svg/hr-icon-wht.svg")}
 		
 		@media (min-width: 980px) {
 			margin-top: 115px;
@@ -192,9 +192,9 @@ mark,
 	border-bottom: 4px solid $brand-primary;
 	
 	&:after {
-		content: url("/assets/images/hr-icon.svg");
+		content: url("/assets/images/svg/hr-icon.svg");
 		position: absolute;
-		right: -22px; bottom: -21px;
+		right: -17px; bottom: -17px;
 	}
 	
 	&.centered {
@@ -203,9 +203,9 @@ mark,
 		margin-right: auto;
 		
 		&:before {
-			content: url("/assets/images/hr-icon.svg");
+			content: url("/assets/images/svg/hr-icon.svg");
 			position: absolute;
-			left: -22px; bottom: -21px;
+			left: -17px; bottom: -17px;
 		}
 	}
 }
