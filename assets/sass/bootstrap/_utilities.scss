@@ -316,5 +316,6 @@ body.home {
 #map {
 	position: relative;
 	min-height: 350px;
+	margin-bottom: ($padding-large-vertical * 3);
 	overflow: hidden;
 }

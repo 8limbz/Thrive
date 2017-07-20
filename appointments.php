@@ -21,11 +21,21 @@
 <!--Intro Message-->
 <div class="container">
 	<div class="row">
-		<div class="col-md-offset-2 col-md-8">
-			<p class="lead text-center">We do our best to accommodate your schedule and offer same day or next day appointments. Please let us know how to best meet your scheduling needs and preferences, as well as the type of appointment you would like to book. Once we are able, we will contact you to confirm the appointment.</p>
+		<div class="col-md-offset-2 col-md-8  text-center">
+			<p class="lead">We do our best to accommodate your schedule and offer same day or next day appointments. Please let us know how to best meet your scheduling needs and preferences, as well as the type of appointment you would like to book. Once we are able, we will contact you to confirm the appointment.</p>
+			
+			<!--Book Now Message-->
+			<p class="lead">Don’t need to ask any questions and want to book right away? Look at our availability and schedule your appointment <a href="#">here</a>!</p>
 		</div>
 	</div>
 </div>
+
+<!--Book Now Message-->
+<!--<div class="container">
+	<div class="col-md-offset-2 col-md-8">
+		<p class="">Don’t need to ask any questions and want to book right away? Look at our availability and schedule your appointment <a href="#">here</a>!</p>
+	</div>
+</div> -->
 
 <!--Appointment Form-->
 <div class="container spacing">
@@ -152,13 +162,6 @@
 			</form>
 		</div>
 	</div>
-</div>
-
-<!--Book Now Message-->
-<div class="container">
-		<div class="col-md-offset-2 col-md-8">
-			<p class="">Don’t need to ask any questions and want to book right away? Look at our availability and schedule your appointment <a href="#">here</a>!</p>
-		</div>
 </div>
 
 <!--Site's Footer-->

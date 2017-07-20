@@ -44,78 +44,52 @@
 </div>
 
 <!--Memberships and Packages-->
-<div class="container mp">
-	<div class="row text-center spacing">
+<div class="container spacing">
+	<div class="row text-center">
 		<div class="col-md-offset-2 col-md-8">
 			<h2 class="interior-headers centered text-uppercase">Memberships<br>&amp; Packages</h2>
-			<div class="col-md-offset-2 col-md-8">
+			<div class="col-sm-offset-2 col-sm-8">
 				<p>It’s our goal to empower you to stay committed to your health. We’ve created memberships and packages, because we want you to THRIVE!</p>
 			</div>
 		</div>
 	</div>
 	
-	<!--Memberships-->
-	<div class="row spacing">
-		<div class="col-md-6 col-lg-8">
-			<img src="/assets/images/client1.jpg" class="img-responsive" alt="Thrive Proactive Health Memberships">
+	<div class="row">
+		<div class="col-sm-6 col-md-4">
+			<h3>Memberships</h3>
+			<p>Memberships are designed to allow you to experience multiple services without the worry of financial ambiguity. We’ve created 3 monthly memberships that entitle clients to special offers, discounts, and upgrades.</p>
+			
+			<h4><b>Premium</b> - $499 monthly</h4>
+			<p>
+				Unlimited 30 minute physical therapy sessions per month <br>
+				40% off any additional services
+			</p>
+			<h4><b>Advanced</b> - $199 monthly</h4>
+			<p>
+				3 hours of service per month <br>
+				40% off any additional services
+			</p>
+			<h4><b>Essential</b> - $79 monthly</h4>
+			<p>
+				1 hour of service per month <br>
+				20% off any additional services
+			</p>
 		</div>
-				
-		<div class="col-md-6 col-lg-4">
-			<div class="row">
-				<div class="col-xs-12">
-					<h3>Memberships</h3>
-					<p>Memberships are designed to allow you to experience multiple services without the worry of financial ambiguity. We’ve created 3 monthly memberships that entitle clients to special offers, discounts, and upgrades.</p>
-				</div>
-			</div>
+		
+		<div class="hidden-xs hidden-sm col-md-4">
+			<img src="http://via.placeholder.com/1350x1750" class="img-responsive h3" alt="Membership & Packages Image">
 		</div>
-	</div>
-	
-	<!--Membership Plans-->
-	<div class="row spacing">
-		<div class="col-md-6 col-lg-8">
-			<img src="/assets/images/client2.jpg" class="img-responsive" alt="Thrive Proactive Health Membership Plans">
-		</div>
-				
-		<div class="col-md-6 col-lg-4">
-			<div class="row">
-				<div class="col-xs-12">
-					<h3>Membership Plans</h3>
-					<h4><b>Premium</b> - $499 monthly</h4>
-					<p>
-						Unlimited 30 minute physical therapy sessions per month <br>
-						40% off any additional services
-					</p>
-					<h4><b>Advanced</b> - $199 monthly</h4>
-					<p>
-						3 hours of service per month <br>
-						40% off any additional services
-					</p>
-					<h4><b>Essential</b> - $79 monthly</h4>
-					<p>
-						1 hours of service per month <br>
-						20% off any additional services
-					</p>
-				</div>
-			</div>
-		</div>
-	</div>
-	
-	<!--Packages-->
-	<div class="row spacing">
-		<div class="col-md-6 col-lg-8">
-			<img src="/assets/images/client3.jpg" class="img-responsive" alt="Thrive Proactive Health Packages">
-		</div>
-				
-		<div class="col-md-6 col-lg-4">
-			<div class="row">
-				<div class="col-xs-12">
-					<h3 class="">Packages</h3>
-					<p>We understand the expense of healthcare, which is why we offer incentives for those who choose to stay proactive. Packages are prepaid and provide you with flat, discounted rates on our services.</p>
-					<h4><b>$792</b> - 9hrs any service of your choice</h4>
-					<h4><b>$549</b> - 6hrs any service of your choice</h4>
-					<h4><b>$297</b> - 3hrs any service of your choice</h4>
-				</div>
-			</div>
+
+		<div class="col-sm-6 col-md-4">
+			<h3 class="">Packages</h3>
+			<p>We understand the expense of healthcare, which is why we offer incentives for those who choose to stay proactive. Packages are prepaid and provide you with flat, discounted rates on our services.</p>
+			
+			<h4><b>$792</b></h4>
+			<p>9 hours any service of your choice</p>
+			<h4><b>$549</b></h4>
+			<p>6 hours any service of your choice</p>
+			<h4><b>$297</b></h4>
+			<p>3 hours any service of your choice</p>
 		</div>
 	</div>
 </div>
@@ -150,7 +124,7 @@
 						<p>Get rewarded! </p>
 					</li>
 				</ul>
-				<p class="small">Earn 1 point for every dollar you spend. <br>
+				<p>Earn 1 point for every dollar you spend. <br>
 				Earn points when you engage with us on social media and sharing your experience with others! <br>
 				For every 500 points, receive $50 towards any of our services! <br>
 				Receive exclusive bonus offers, special prizes, and discounts.</p>

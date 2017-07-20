@@ -11,15 +11,10 @@
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/assets/includes/header.php'); ?>
 
 <!--Page Header-->
-<div class="jumbotron contact">
-  <div class="container">
-<!--    <h1 class="text-center">About Us</h1>-->
-  </div>
-  <div class="overlay"></div>
-</div>
+<div id="map"></div>
 
 <!--Intro Message-->
-<div class="container">
+<div class="container spacing">
 	<div class="row">
 	
 		<!--Intro Message-->
@@ -64,7 +59,7 @@
 					</div>
 					<div class="buttons ">
 						<div>
-							<input id="saveForm" name="saveForm" class="btTxt submit btn btn-default col-xs-12" type="submit" value="Submit"
+							<input id="saveForm" name="saveForm" class="btTxt submit btn btn-primary col-xs-12" type="submit" value="Submit"
 						 />
 						</div>
 					</div>
@@ -77,24 +72,18 @@
 			</form>
 		</div>
 		
-		<!--Map-->
-		<div class="col-md-10">
-			<div id="map"></div>
-		</div>
-		
 		<!--Store Info-->
-		<div class="col-md-2">
+		<!--<div class="hidden-sm hidden-xs col-md-4 col-lg-2">
 			<h3>Our Location</h3>
-			<p>2830 Virginia Beach Blvd.
-      		<br>Virginia Beach, VA 23452</p>
-      		<p><a href="https://www.google.com/maps/dir/Current+Location/2830+Virginia+Beach+Blvd+Virginia+Beach+VA+23452" target="_blank">Directions</a></p>
-      		
-			<p><a href="tel:757-416-6700">Call Us</a><br>
-     		<a href="fax:1*757-416-6700">Send Fax</a></p>
-     		
-     		<p><a href="mailto:info@thrivevb.com?Subject=New%20Message%20from%20thrivevb.com" target="_blank">Email</a></p>
-		</div>
-		
+			<p>2830 Virginia Beach Blvd. <br>
+			Virginia Beach, VA 23452 <br>
+			<a href="https://www.google.com/maps/dir/Current+Location/2830+Virginia+Beach+Blvd+Virginia+Beach+VA+23452" target="_blank">Directions</a></p>
+
+			<h3>Contact Us</h3>
+			<p><a href="mailto:info@thrivevb.com?Subject=New%20Message%20from%20thrivevb.com" target="_blank">Email</a> <br>
+			<a href="tel:757-416-6700">Call Us</a><br>
+			<a href="fax:1*757-416-6700">Send Fax</a></p>
+		</div> -->
 	</div>
 </div>
 

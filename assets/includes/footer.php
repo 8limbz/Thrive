@@ -18,10 +18,12 @@
       <div class="row">
       	<div class="col-sm-6 col-md-4">
       		<h3>Location</h3>
-      		<p>2830 Virginia Beach Blvd.
-      		<br>Virginia Beach, VA 23452</p>
-      		<p><a href="https://www.google.com/maps/dir/Current+Location/2830+Virginia+Beach+Blvd+Virginia+Beach+VA+23452" target="_blank">Directions</a><br>
-			<a href="tel:757-416-6700">Call Us</a><br>
+      		<p>2830 Virginia Beach Blvd. <br>
+      		Virginia Beach, VA 23452 <br>
+      		<a href="https://www.google.com/maps/dir/Current+Location/2830+Virginia+Beach+Blvd+Virginia+Beach+VA+23452" target="_blank">Directions</a></p>
+      		
+      		<p><a href="mailto:info@thrivevb.com?Subject=New%20Message%20from%20thrivevb.com" target="_blank">Email</a> <br>
+      		<a href="tel:757-416-6700">Call Us</a><br>
      		<a href="fax:1*757-416-6700">Send Fax</a></p>
       	</div>
       	<div class="col-sm-6 col-md-4">
@@ -117,15 +119,15 @@
     'use strict';
     
     var locations = [
-  				['Thrive', 36.8445305,-76.0711749, '<h5>Thrive</h5><p>2830 Virginia Beach Blvd,<br/>Virginia Beach, VA, 23452<br/><a href="https://www.google.com/maps/dir/Current+Location/2830+Virginia+Beach+Blvd+Virginia+Beach+VA+23452">Directions</a></p>']
+  				['Thrive', 36.8445305,-76.0711749, '<h4>Thrive Proactive Health</h4><p>2830 Virginia Beach Blvd,<br/>Virginia Beach, VA, 23452<br/><a href="https://www.google.com/maps/dir/Current+Location/2830+Virginia+Beach+Blvd+Virginia+Beach+VA+23452" target="_blank">Directions</a></p>']
 		];
 
 		var $mapis = $('#map');
 		var $mapZoom;
 		if($(window).width()<992){
-			$mapZoom = 10;
-		}else{
 			$mapZoom = 15;
+		}else{
+			$mapZoom = 14;
 		}
 
 		if ($mapis.length > 0) {
@@ -140,9 +142,95 @@
 				center: {lat: 36.8445305, lng: -76.0711749},
 				el: '#map',
 				zoom: $mapZoom,
-				styles: [{"featureType":"all","elementType":"labels.text.fill","stylers":[{"saturation":2},{"color":"#555559"},{"lightness":40}]},{"featureType":"all","elementType":"labels.text.stroke","stylers":[{"visibility":"on"},{"color":"#555559"},{"lightness":16}]},{"featureType":"all","elementType":"labels.icon","stylers":[{"visibility":"off"}]},{"featureType":"administrative","elementType":"geometry.fill","stylers":[{"color":"#555559"},{"lightness":6}]},{"featureType":"administrative","elementType":"geometry.stroke","stylers":[{"color":"#555559"},{"lightness":22},{"weight":1.2}]},{"featureType":"landscape","elementType":"geometry","stylers":[{"color":"#555559"},{"lightness":6}]},{"featureType":"poi","elementType":"geometry","stylers":[{"color":"#555559"},{"lightness":6}]},{"featureType":"road.highway","elementType":"geometry.fill","stylers":[{"color":"#555559"},{"lightness":17}]},{"featureType":"road.highway","elementType":"geometry.stroke","stylers":[{"color":"#555559"},{"lightness":35},{"weight":0.2}]},{"featureType":"road.arterial","elementType":"geometry","stylers":[{"color":"#555559"},{"lightness":18}]},{"featureType":"road.local","elementType":"geometry","stylers":[{"color":"#555559"},{"lightness":8}]},{"featureType":"transit","elementType":"geometry","stylers":[{"color":"#555559"},{"lightness":8}]},{"featureType":"water","elementType":"geometry","stylers":[{"color":"#555559"},{"lightness":25}]}]
+				styles: [
+            {elementType: 'geometry', stylers: [{color: '#00b0b3'}]},
+            {elementType: 'labels.text.stroke', stylers: [{color: '#111111'}]},
+            {elementType: 'labels.text.fill', stylers: [{color: '#9D9D9D'}]},
+            {
+              featureType: 'administrative.locality',
+              elementType: 'labels.text.fill',
+              stylers: [{color: '#f1f1f1'}]
+            },
+            {
+              featureType: 'poi',
+              elementType: 'labels.text.fill',
+              stylers: [{color: '#D0D0D0'}]
+            },
+            {
+              featureType: 'poi.park',
+              elementType: 'geometry',
+              stylers: [{color: '#00DADE'}]
+            },
+            {
+              featureType: 'poi.park',
+              elementType: 'labels.text.fill',
+              stylers: [{color: '#444'}]
+            },
+            {
+              featureType: 'road',
+              elementType: 'geometry',
+              stylers: [{color: '#008082'}]
+            },
+            {
+              featureType: 'road',
+              elementType: 'geometry.stroke',
+              stylers: [{color: '#00787A'}]
+            },
+            {
+              featureType: 'road',
+              elementType: 'labels.text.fill',
+              stylers: [{color: '#BEBEBE'}]
+            },
+            {
+              featureType: 'road.highway',
+              elementType: 'geometry',
+              stylers: [{color: '#003233'}]
+            },
+            {
+              featureType: 'road.highway',
+              elementType: 'geometry.stroke',
+              stylers: [{color: '#22222'}]
+            },
+            {
+              featureType: 'road.highway',
+              elementType: 'labels.text.fill',
+              stylers: [{color: '#f7f7f7'}]
+            },
+            {
+              featureType: 'transit',
+              elementType: 'geometry',
+              stylers: [{color: '#007E80'}]
+            },
+            {
+              featureType: 'transit.station',
+              elementType: 'labels.text.fill',
+              stylers: [{color: '#dddddd'}]
+            },
+            {
+              featureType: 'water',
+              elementType: 'geometry',
+              stylers: [{color: '#005658'}]
+            },
+            {
+              featureType: 'water',
+              elementType: 'labels.text.fill',
+              stylers: [{color: '#6D6D6D'}]
+            },
+            {
+              featureType: 'water',
+              elementType: 'labels.text.stroke',
+              stylers: [{color: '#111111'}]
+            }
+          ]
 			});
-
+			
+			var marker = new google.maps.Marker({
+			  position: map.getCenter(),
+			  icon: 'http://maps.google.com/mapfiles/ms/icons/orange-dot.png',
+			  animation: google.maps.Animation.DROP,
+          	  position: {lat: 59.327, lng: 18.067},
+			  map: map
+			});
 
 			for (var i = 0; i < locations.length; i++) {
     		var loc = locations[i];
