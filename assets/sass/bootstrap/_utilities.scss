@@ -307,6 +307,10 @@ body.home {
 	padding-right: 5px;
 }
 
+.paragraph-space {
+	padding-top: ($padding-large-vertical * 2);
+}
+
 // Form Styling
 .req { color: $brand-primary; }
 .label-help { color: #ccc; }

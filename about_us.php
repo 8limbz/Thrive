@@ -72,7 +72,8 @@
 			<p class="col-md-offset-2 col-md-8">We are a team of trained professionals, innovators, life-long learners, and passionate providers</p>
 		</div>
 	
-		<div class="col-md-4">
+		<!--Julie Team Image-->
+		<div class="col-sm-6 col-md-4">
 			<div class="team-thumb">
 				<figure>
 					<img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Julie Blandin">
@@ -81,11 +82,32 @@
 					<h4>Julie Blandin <br>
 					<span class="small">PT + ATC + CSCS + PRC</span></h4>
 					<p>Biomechanical Specialist and Movement Expert</p>
-					<a href="#">Learn more about Julie</a>
+					<a data-toggle="modal" href="#julie">Learn more about Julie</a>
 				</figcaption>
 			</div>
 		</div>
-		<div class="col-md-4">
+		
+		  <!-- Modal -->
+		  <div class="modal fade" id="julie" tabindex="-1" role="dialog" aria-labelledby="julie" aria-hidden="true">
+			<div class="modal-dialog">
+			  <div class="modal-content">
+				<div class="modal-header">
+				  <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+				  <h4 class="modal-title"></h4>
+				</div>
+				<div class="modal-body">
+				  <img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Julie Blandin">
+				  <h1>Julie Blandin</h1>
+				  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellat molestiae unde, ipsum ad fugit repellendus magni. Ullam ab, accusamus doloribus!</p>
+				</div>
+				<div class="modal-footer">
+				  <button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+				</div>
+			  </div><!-- /.modal-content -->
+			</div><!-- /.modal-dialog -->
+		  </div><!-- /.modal -->
+		
+		<div class="col-sm-6 col-md-4">
 			<div class="team-thumb">
 				<figure>
 					<img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Maureen Moore">
@@ -98,7 +120,7 @@
 				</figcaption>
 			</div>
 		</div>
-		<div class="col-md-4">
+		<div class="col-sm-6 col-md-4">
 			<div class="team-thumb">
 				<figure>
 					<img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Sarah Ratti">
@@ -111,9 +133,8 @@
 				</figcaption>
 			</div>
 		</div>
-	</div>
-	<div class="row">
-		<div class="col-md-4">
+		<div class="visible-md visible-lg clearfix"></div>
+		<div class="col-sm-6 col-md-4">
 			<div class="team-thumb">
 				<figure>
 					<img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Tracy Heller">
@@ -126,7 +147,7 @@
 				</figcaption>
 			</div>
 		</div>
-		<div class="col-md-4">
+		<div class="col-sm-6 col-md-4">
 			<div class="team-thumb">
 				<figure>
 					<img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Christine Sanchez">
@@ -139,7 +160,7 @@
 				</figcaption>
 			</div>
 		</div>
-		<div class="col-md-4">
+		<div class="col-sm-6 col-md-4">
 			<div class="team-thumb">
 				<figure>
 					<img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Chantal Owen">

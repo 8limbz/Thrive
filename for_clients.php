@@ -35,9 +35,14 @@
 				</div>
 			</div>
 			<div class="col-md-6">
-				<h2 class="interior-headers video-header centered hidden-md hidden-lg text-uppercase">Join Thrive</h2><!--mobile-->
-				<h2 class="interior-headers hidden-xs hidden-sm text-uppercase">Join Thrive</h2>
+				<div class="hidden-md hidden-lg text-center col-sm-offset-2 col-sm-8">
+					<h2 class="interior-headers video-header centered text-uppercase">Join Thrive</h2><!--mobile-->
+					<p>If you’re looking to prepare for your upcoming appointment, fill out your <a href="https://www.waiverking.com/print/7012" target="_blank">New Patient and Client Intake Form</a></p>
+				</div>
+				<div class="hidden-xs hidden-sm">
+					<h2 class="interior-headers text-uppercase">Join Thrive</h2>
 				<p>If you’re looking to prepare for your upcoming appointment, fill out your <a href="https://www.waiverking.com/print/7012" target="_blank">New Patient and Client Intake Form</a></p>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -76,11 +81,13 @@
 			</p>
 		</div>
 		
+<!--
 		<div class="hidden-xs hidden-sm col-md-4">
 			<img src="http://via.placeholder.com/1350x1750" class="img-responsive h3" alt="Membership & Packages Image">
 		</div>
+-->
 
-		<div class="col-sm-6 col-md-4">
+		<div class="col-sm-6 col-md-offset-4 col-md-4">
 			<h3 class="">Packages</h3>
 			<p>We understand the expense of healthcare, which is why we offer incentives for those who choose to stay proactive. Packages are prepaid and provide you with flat, discounted rates on our services.</p>
 			
@@ -100,7 +107,7 @@
 		<div class="row">
 			<div class="col-md-offset-2 col-md-8 text-center">
 				<h2 class="interior-headers centered text-uppercase">Earn Rewards</h2>
-				<div class="col-md-offset-2 col-md-8">
+				<div class="col-sm-offset-2 col-sm-8">
 					<p>Our benefits program gets you rewards for staying proactive about your health and encouraging others to do the same!</p>
 				</div>
 			</div>
