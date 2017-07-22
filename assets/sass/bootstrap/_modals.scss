@@ -77,8 +77,10 @@
 // Modal header
 // Top section of the modal w/ title and dismiss
 .modal-header {
+  color: #fff;
   padding: $modal-title-padding;
-  border-bottom: 1px solid $modal-header-border-color;
+  background-color: $brand-secondary;
+  border-bottom: 1px solid darken($brand-secondary, 5%);
   @include clearfix;
 }
 // Close icon
@@ -88,6 +90,7 @@
 
 // Title text within header
 .modal-title {
+  color: #fff;
   margin: 0;
   line-height: $modal-title-line-height;
 }
