@@ -11,10 +11,8 @@
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/assets/includes/header.php'); ?>
 
 <!--Page Header-->
-<div class="jumbotron for-clients">
-  <div class="container">
-<!--    <h1 class="text-center">About Us</h1>-->
-  </div>
+<div class="jumbotron massage">
+  <div class="container"></div>
   <div class="overlay"></div>
 </div>
 
@@ -60,10 +58,13 @@
 	</div>
 	
 	<div class="row">
-		<div class="col-sm-6 col-md-4">
+		<div class="col-sm-6 col-md-offset-2 col-md-4">
 			<h3>Memberships</h3>
 			<p>Memberships are designed to allow you to experience multiple services without the worry of financial ambiguity. We’ve created 3 monthly memberships that entitle clients to special offers, discounts, and upgrades.</p>
-			
+		</div>
+		
+		<div class="col-sm-6 col-md-4">
+			<h3>Membership Plans</h3>
 			<h4><b>Premium</b> - $499 monthly</h4>
 			<p>
 				Unlimited 30 minute physical therapy sessions per month <br>
@@ -80,17 +81,14 @@
 				20% off any additional services
 			</p>
 		</div>
-		
-<!--
-		<div class="hidden-xs hidden-sm col-md-4">
-			<img src="http://via.placeholder.com/1350x1750" class="img-responsive h3" alt="Membership & Packages Image">
-		</div>
--->
 
-		<div class="col-sm-6 col-md-offset-4 col-md-4">
-			<h3 class="">Packages</h3>
+		<div class="col-sm-6 col-md-offset-2 col-md-4">
+			<h3>Packages</h3>
 			<p>We understand the expense of healthcare, which is why we offer incentives for those who choose to stay proactive. Packages are prepaid and provide you with flat, discounted rates on our services.</p>
-			
+		</div>
+		
+		<div class="col-sm-6 col-md-4">
+			<h3>Package Deals</h3>
 			<h4><b>$792</b></h4>
 			<p>9 hours any service of your choice</p>
 			<h4><b>$549</b></h4>

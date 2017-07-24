@@ -19,6 +19,22 @@
 		background-image: url("/assets/images/page-banners/about-bg.jpg");
 		background-position: left center;
 	}
+	&.rppt {
+		background-image: url("/assets/images/page-banners/rppt-bg.jpg");
+		background-position: center center;
+	}
+	&.massage {
+		background-image: url("/assets/images/page-banners/massage-bg.jpg");
+		background-position: center center;
+	}
+	&.acupuncture {
+		background-image: url("/assets/images/page-banners/acupuncture-bg.jpg");
+		background-position: center top;
+	}
+	&.mental {
+		background-image: url("/assets/images/page-banners/mental-bg.jpg");
+		background-position: center center;
+	}
 	&.for-clients { 
 		background-image: url("/assets/images/page-banners/clients-bg.jpg");
 	}

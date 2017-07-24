@@ -68,10 +68,11 @@ body.home {
 	}
 }
 
-.client-page .footer {
-	margin-top: 0;
+.client-page {
+	.footer {
+		margin-top: 0;
+	}
 }
-
 
 //Homepage Video
 .video-container {
@@ -170,13 +171,14 @@ body.home {
 	}
 }
 .hp-2 {
-	min-height: 300px;
+	min-height: 500px;
 	width: 100%;
 	background-image: url("/assets/images/img1.jpg");
-	background-position: 0 0;
+	background-position: center bottom;
 	background-size: cover;
 	
 	@media (min-width: $screen-md-min) {
+	  min-height: 300px;
 	  flex: 1 0px;
 	  order: 2;
 	}
@@ -322,4 +324,9 @@ body.home {
 	min-height: 350px;
 	margin-bottom: ($padding-large-vertical * 3);
 	overflow: hidden;
+}
+
+//Acupuncture Image Fix
+.remove-margin {
+	margin-bottom: 0;
 }

@@ -43,10 +43,7 @@
   <li class="flex-item hp-2"></li><!-- About Image -->
   
   <li class="flex-item hp-3 text-center">
-<!--  	<h2 class="text-uppercase">Our Specialized<br>Services Lines</h2>-->
-<!--  	<p class="col-sm-offset-2 col-sm-8">These service lines work together to provide you with the ultimate thriving lifestyle.</p>-->
-  	
-<!--  	Homepage Service Lines-->
+	<!--  	Homepage Service Lines-->
   	<div class="col-md-12">
   	  <img src="/assets/images/svg/services-icon.svg" alt="Thrive Specialized Services" class="center-block services-icon">
   	  <h2 class="text-uppercase special wht">Our Specialized Services Lines</h2>
@@ -69,7 +66,7 @@
 <!--  Homepage Booking-->
   <li class="flex-item hp-4 text-center">
   	<h2 class="text-uppercase">Book Your Appointment Today</h2>
-  	<a href="/appointments">
+  	<a href="https://clients.mindbodyonline.com/ASP/adm/adm_appt_search.asp?reSchedule" target="_blank">
   		<div class="btn btn-primary">Book Now</div>
   	</a>
   </li>

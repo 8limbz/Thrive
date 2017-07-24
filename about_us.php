@@ -6,7 +6,7 @@
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/assets/includes/head.php'); ?>
 </head>
 
-<body>
+<body class="client-page">
 <!--Site's Header-->
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/assets/includes/header.php'); ?>
 
@@ -101,7 +101,7 @@
 					  <h3>Julie Blandin <br>
 					  <span class="small">PT + ATC + CSCS + PRC</span></h3>
 					  <h4 class="text-muted" style="margin-bottom: 20px;"><b>Biomechanical Specialist and Movement Expert</b></h4>
-					  <p>Julie is an industry leading Sports Rehab and Postural Restoration Specialist with over 17 years of experience in the Fitness and Sports Medicine industry. She is the only <a href="www.posturalrestoration.com/find-provider/member/2878-julie-blandin?region=" target="_blank">Hampton Roads Therapist Certified Provider</a> in <a href="/rppt">Postural Restoration</a>.</p>
+					  <p>Julie is an industry leading Sports Rehab and Postural Restoration Specialist with over 17 years of experience in the Fitness and Sports Medicine industry. She is the only <a href="http://www.posturalrestoration.com/find-provider/member/2878-julie-blandin?region=" target="_blank">Hampton Roads Therapist Certified Provider</a> in <a href="/rppt">Postural Restoration</a>.</p>
 					  <p>Through her diverse educational background and willingness to explore the unknown, Julie has developed an extensive and unique postgraduate skillset to offer you a holistic perspective on injury rehabilitation, prevention, and maintenance. Julie's expertise bridges the gap between rehabilitation and performance. She highly values and understands the integration involved in the continuum of care associated with treating athletes and patients of all ages.</p>
 					  <p>She has aborted many traditional therapy techniques in the quest to learn an advanced science that offers even the toughest patients some if not complete relief.</p>
 					  <blockquote>“I love purpose, passion, and serving others. Helping people achieve their goals and the health of our team is extremely important to me. I liberate and amplify the strengths and talents of others and facilitate teamwork so that we together can exceed expectations.”<br>
@@ -117,7 +117,7 @@
 									<li>Functional Movement</li>
 									<li>Osteopathic Manual Medicine</li>
 									<li>Pain Science</li>
-									<li><a href="www.integrativedryneedling.com/directory/julie-l-blandin/" target="_blank">Dry Needling</a></li>
+									<li><a href="http://www.integrativedryneedling.com/directory/julie-l-blandin/" target="_blank">Dry Needling</a></li>
 									<li>Vacuum Cupping Therapy</li>
 									<li>Anatomy Trains</li>
 									<li>Various Manual Therapies</li>
@@ -140,7 +140,7 @@
 								<h4 class="text-muted">Extensive Post Graduate Study in the Postural Restoration Science</h4>
 							</li>
 							<li>
-								<h4 class="text-muted">Faculty Member of the <a href="www.posturalrestoration.com/programs-courses/faculty" target="_blank">Postural Restoration Institute</a>, teaching nationally to:</h4>
+								<h4 class="text-muted">Faculty Member of the <a href="http://www.posturalrestoration.com/programs-courses/faculty" target="_blank">Postural Restoration Institute</a>, teaching nationally to:</h4>
 								<ul>
 									<li>Health Care Practitioners</li>
 									<li>Strength Coaches</li>

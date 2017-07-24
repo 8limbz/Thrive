@@ -25,7 +25,7 @@
             <ul class="dropdown-menu">
               <li><a href="/rppt">Restorative and Performance Physical Therapy</a></li>
               <li><a href="massage_therapy">Massage Therapy</a></li>
-              <li><a href="/accupunture">Acupuncture</a></li>
+              <li><a href="/acupuncture">Acupuncture</a></li>
               <li><a href="/mental_performance">Mental Performance</a></li>
             </ul>
   		  </li>

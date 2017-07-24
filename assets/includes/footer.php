@@ -22,8 +22,8 @@
       		Virginia Beach, VA 23452 <br>
       		<a href="https://www.google.com/maps/dir/Current+Location/2830+Virginia+Beach+Blvd+Virginia+Beach+VA+23452" target="_blank">Directions</a></p>
       		
-      		<p><a href="mailto:info@thrivevb.com?Subject=New%20Message%20from%20thrivevb.com" target="_blank">Email</a> <br>
-      		<a href="tel:757-416-6700">Call Us</a><br>
+      		<p><a href="tel:757-416-6700">Tel: 757-416-6700</a> <br>
+      		<a href="mailto:info@thrivevb.com?Subject=New%20Message%20from%20thrivevb.com">Email Us</a><br>
      		<a href="fax:1*757-416-6700">Send Fax</a></p>
       	</div>
       	<div class="col-sm-6 col-md-4">
@@ -96,8 +96,8 @@
 		<div class="col-sm-12">
 		  <ul class="text-center list-unstyled list-inline small">
 			<li class="pull-left"><?php auto_copyright();?> Thrive Proactive Health</li>
-			  <li class="pull-right"><a href="#">Privacy Policy</a></li>
-			  <li class="pull-right"><a href="#">Terms &amp; Conditions</a></li>
+			  <li class="pull-right"><a href="/privacy_policy">Privacy Policy</a></li>
+			  <li class="pull-right"><a href="/terms_conditions">Terms &amp; Conditions</a></li>
 		  </ul>
 		</div>
     </div>

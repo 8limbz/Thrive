@@ -12,14 +12,16 @@
 
 <!--Page Header-->
 <div class="jumbotron rppt">
-  <div class="container">
-<!--    <h1 class="text-center">About Us</h1>-->
-  </div>
+  <div class="container"></div>
   <div class="overlay"></div>
 </div>
 
 <!--Intro Message-->
-<p class="lead text-center">For clients with pain, dysfunction, stress, and disorientation.</p>
+<div class="container">
+	<div class="row">
+		<div class="col-md-offset-2 col-md-8"><p class="lead text-center">For clients with pain, dysfunction, stress, and disorientation.</p></div>
+	</div>
+</div>
 
 <!--Restorative and Performace Physical Therapy-->
 <div class="drk">
@@ -40,87 +42,11 @@
 				<img src="http://via.placeholder.com/1350x750" class="img-responsive h5" alt="Thrive — Restorative and Performance Physical Therapy">
 			</div>
 		</div>
-			
-			<!--<div class="col-lg-6">
-				<img src="http://via.placeholder.com/1350x750" class="img-responsive h5" alt="Thrive — Restorative and Performance Physical Therapy">
-			</div> -->
-			
-		<div class="row">
-			<div class="col-md-offset-2 col-md-8">
-				<h2 class="interior-headers centered text-uppercase">Specific Services</h2>
-			</div>
-
-			<div class="col-sm-4">
-				<h3>Advanced Session <br>
-				<span class="small">- 90 mins at $159</span></h3>
-				<p>
-					Upgraded full service assessment and intervention. 30 min of physical therapy combined with 60 min of customized massage.
-				</p>
-				<a href="#">
-					<p class="btn btn-primary">Book Now</p>
-				</a>
-			</div>
-			<div class="col-sm-4">
-				<h3>Essential Session <br>
-				<span class="small">- 60 mins at $129</span></h3>
-				<p>
-					Full service assessment and intervention.
-				</p>
-				<a href="#">
-					<p class="btn btn-primary">Book Now</p>
-				</a>
-			</div>
-			<div class="col-sm-4">
-				<h3>PhysioMassage <br>
-				<span class="small">- 90 mins at $159</span></h3>
-				<p>
-					Effectively integrated skillsets of Physical + Massage Therapy to target specific areas of pain or restriction.
-				</p>
-				<a href="#">
-					<p class="btn btn-primary">Book Now</p>
-				</a>
-			</div>
-		</div>
-			
-			<!--<h2 class="interior-headers centered text-uppercase">Specific Services</h2>
-		
-		<div class="col-sm-4">
-			<h3>Advanced Session <br>
-			<span class="small">- 90 mins at $159</span></h3>
-			<p>
-				Upgraded full service assessment and intervention. 30 min of physical therapy combined with 60 min of customized massage.
-			</p>
-			<a href="#">
-				<p class="btn btn-primary">Book Now</p>
-			</a>
-		</div>
-		<div class="col-sm-4">
-			<h3>Essential Session <br>
-			<span class="small">- 60 mins at $129</span></h3>
-			<p>
-				Full service assessment and intervention.
-			</p>
-			<a href="#">
-				<p class="btn btn-primary">Book Now</p>
-			</a>
-		</div>
-		<div class="col-sm-4">
-			<h3>PhysioMassage <br>
-			<span class="small">- 90 mins at $159</span></h3>
-			<p>
-				Effectively integrated skillsets of Physical + Massage Therapy to target specific areas of pain or restriction.
-			</p>
-			<a href="#">
-				<p class="btn btn-primary">Book Now</p>
-			</a>
-		</div>-->
-			
-		</div>
 	</div>
 </div>
 
 <!--Specific Services-->
-<!--<div class="container spacing">
+<div class="container spacing">
 	<div class="row">
 		<h2 class="interior-headers centered text-uppercase">Specific Services</h2>
 		
@@ -130,7 +56,7 @@
 			<p>
 				Upgraded full service assessment and intervention. 30 min of physical therapy combined with 60 min of customized massage.
 			</p>
-			<a href="#">
+			<a href="https://clients.mindbodyonline.com/ASP/adm/adm_appt_search.asp?reSchedule=" target="_blank">
 				<p class="btn btn-primary">Book Now</p>
 			</a>
 		</div>
@@ -140,7 +66,7 @@
 			<p>
 				Full service assessment and intervention.
 			</p>
-			<a href="#">
+			<a href="https://clients.mindbodyonline.com/ASP/adm/adm_appt_search.asp?reSchedule=" target="_blank">
 				<p class="btn btn-primary">Book Now</p>
 			</a>
 		</div>
@@ -150,15 +76,15 @@
 			<p>
 				Effectively integrated skillsets of Physical + Massage Therapy to target specific areas of pain or restriction.
 			</p>
-			<a href="#">
+			<a href="https://clients.mindbodyonline.com/ASP/adm/adm_appt_search.asp?reSchedule=" target="_blank">
 				<p class="btn btn-primary">Book Now</p>
 			</a>
 		</div>
 	</div>
-</div> -->
+</div>
 
 <!--Our Specialty Techniques-->
-<div class="">
+<div class="drk">
 	<div class="container spacing">
 		<div class="row">
 			<h2 class="interior-headers centered text-uppercase">Our Specialty Techniques</h2>
@@ -191,14 +117,13 @@
 	</div>
 </div>
 
-<div class="drk">
+<!--Outro Message-->
 <div class="container spacing">
 	<div class="col-md-offset-2 col-md-8">
-		<p class="lead text-center">
+		<p class="lead text-center remove-margin">
 			We believe that nobody should never live in pain and we take an integrative holistic approach to help you enhance your movement health and quality of life.
 		</p>
 	</div>
-</div>
 </div>
 
 <!--Site's Footer-->
