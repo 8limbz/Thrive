@@ -118,9 +118,7 @@
 
     'use strict';
     
-    var locations = [
-  				['Thrive', 36.8445305,-76.0711749, '<h4>Thrive Proactive Health</h4><p>2830 Virginia Beach Blvd,<br/>Virginia Beach, VA, 23452<br/><a href="https://www.google.com/maps/dir/Current+Location/2830+Virginia+Beach+Blvd+Virginia+Beach+VA+23452" target="_blank">Directions</a></p>']
-		];
+    	var mapLocation = new google.maps.LatLng(36.8445305, -76.0711696);
 
 		var $mapis = $('#map');
 		var $mapZoom;
@@ -139,7 +137,7 @@
 				zoomControl : true,
 				panControl : true,
 				scrollwheel: false,
-				center: {lat: 36.8445305, lng: -76.0711749},
+				center: mapLocation,
 				el: '#map',
 				zoom: $mapZoom,
 				styles: [
@@ -224,25 +222,21 @@
           ]
 			});
 			
-			var marker = new google.maps.Marker({
-			  position: map.getCenter(),
-			  icon: 'http://maps.google.com/mapfiles/ms/icons/orange-dot.png',
-			  animation: google.maps.Animation.DROP,
-          	  position: {lat: 59.327, lng: 18.067},
-			  map: map
-			});
+			var icon = {
+				url: "/assets/images/map-marker.png", // url
+				scaledSize: new google.maps.Size(50, 50), // scaled size
+				origin: new google.maps.Point(0,0), // origin
+				anchor: new google.maps.Point(0, 50) // anchor
+			};
 
-			for (var i = 0; i < locations.length; i++) {
-    		var loc = locations[i];
 			map.addMarker({
-				position: {lat: loc[1], lng: loc[2]},
-				icon: marker,
+				position: mapLocation,
+				icon: icon,
+				title: 'Thrive Proactive Health',
 				infoWindow: {
-				content: loc[3]
+					content: '<h4>Thrive Proactive Health</h4><p>2830 Virginia Beach Blvd,<br/>Virginia Beach, VA, 23452<br/><a href="https://www.google.com/maps/dir/Current+Location/2830+Virginia+Beach+Blvd+Virginia+Beach+VA+23452" target="_blank">Directions</a></p>'
 				}
 			});
-
-		}
 		}
 });
 </script>
