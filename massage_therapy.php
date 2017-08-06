@@ -18,23 +18,25 @@
 
 <!--Intro Message-->
 <div class="container">
-	<div class="row">
-		<div class="col-md-offset-2 col-md-8"><p class="lead text-center">For clients who need rejuvenation, relaxation, or to be energized.</p></div>
+	<div class="row text-center">
+		<div class="col-md-offset-2 col-md-8">
+			<p class="lead">Restore. Revive. Optimize.</p>
+		</div>
 	</div>
 </div>
 
 <!--Massage Therapy-->
 <div class="drk">
 	<div class="container spacing">
-		<div class="row">
-			<h2 class="interior-headers centered text-uppercase">Massage Therapy</h2>	
-			<div class="col-md-offset-2 col-md-8 text-center">
+		<div class="row">	
+			<div class="col-md-offset-2 col-md-8">
+				<h2 class="interior-headers centered text-uppercase">Massage Therapy</h2>
 				<p>With advanced techniques, we aim to fix the mechanical failure that causes you to experience pain. Whether joint pain, excessive muscle tension, muscle pain, decreased or inefficient mobility, headaches, and any other symptom–we analyze and treat the body based on WHY the dysfunction is caused.</p>
 			</div>
 		</div>
 		<div class="row">
-			<div class="col-xs-12">
-				<img src="http://via.placeholder.com/1350x750" class="img-responsive h5" alt="Thrive — Massage Therapy">
+			<div class="col-sm-offset-2 col-sm-8">
+				<p><img src="http://via.placeholder.com/1350x750" class="img-responsive h5" alt="Thrive — Massage Therapy"></p>
 			</div>
 		</div>			
 	</div>
@@ -44,21 +46,21 @@
 <div class="container spacing">
 	<div class="row">
 		<h2 class="interior-headers centered text-uppercase">Specific Services</h2>
-		
+
 		<div class="col-sm-6 col-md-4">
 			<h3>Classic Massage <br>
 			<span class="small">- 60 min at $69 ;  90 min at $99</span></h3>
-			<p>
+			<p class="small">
 				The classic massage for relaxation and overall well-being.
 			</p>
-			<a href="https://clients.mindbodyonline.com/classic/ws?studioid=691320&stype=-9&sTG=5&sView=day&sLoc=0" target="_blank">
+			<a href="https://clients.mindbodyonline.com/classic/ws?studioid=691320&stype=-9&sTG=4&sView=day&sLoc=0" target="_blank">
 				<p class="btn btn-primary">Book Now</p>
 			</a>
 		</div>
 		<div class="col-sm-6 col-md-4">
 			<h3>Restore and Revive Therapeutic Massage <br>
 			<span class="small">- 60 min at $89 ; 90 min at $129</span></h3>
-			<p>
+			<p class="small">
 				The ideal solution for extensive muscle tension and when feeling mentally/physically drained. A customized massage that incorporates a hybrid of bodywork and massage techniques, such as: Deep Tissue, Sport, Neuromuscular, Myofascial Releases, Reflexology, Vacuum Cupping, Hot Stone, Aromatherapy, and Therapeutic Manual Therapy Techniques.
 			</p>
 			<a href="https://clients.mindbodyonline.com/classic/ws?studioid=691320&stype=-9&sTG=5&sView=day&sLoc=0" target="_blank">
@@ -69,7 +71,7 @@
 		<div class="col-sm-6 col-md-4">
 			<h3>Prenatal Maternity Massage <br>
 			<span class="small">- 60 min at $69</span></h3>
-			<p>
+			<p class="small">
 				Alleviates muscle tension, aches, and pains that develop during the course of pregnancy and early motherhood. Prenatal massage also works to reduce anxiety, improve sleep, and decrease symptoms of depression.
 			</p>
 			<a href="https://clients.mindbodyonline.com/classic/ws?studioid=691320&stype=-9&sTG=5&sView=day&sLoc=0" target="_blank">
@@ -80,7 +82,7 @@
 		<div class="col-sm-6 col-md-4">
 			<h3>Reflexology Massage <br>
 			<span class="small">- 60 min at $89 ; 90 min at $129</span></h3>
-			<p>
+			<p class="small">
 				Based on the belief that the ears, hands and feet have pressure points corresponding to all body parts, organs and glands. Applying pressure to those reflexes generates a positive response from and to our nervous system. A massage with focus on the feet or the hands can be selected.
 			</p>
 			<a href="https://clients.mindbodyonline.com/classic/ws?studioid=691320&stype=-9&sTG=4&sView=day&sLoc=0" target="_blank">
@@ -89,20 +91,20 @@
 		</div>
 		<div class="clearfix visible-sm"></div>
 		<div class="col-sm-6 col-md-4">
-			<h3>Performance and Recovery Sports Massage <br>
-			<span class="small">- 90 min at $99</span></h3>
-			<p>
-				Experience better recovery from extreme fitness schedules and athletic training by incorporating massage into your routine. Includes bodywork, deep tissue work, and our signature releases to help your system return to balance and recover optimally.
+			<h3>Signature Therapeutic Massage <br>
+			<span class="small">- 60 min at $129 ; 90 min at $159</span></h3>
+			<p class="small">
+				Completely customizable and ideal to help you alleviate muscle tension, improve mobility, decrease pain, increase circulation and improve sleep. A variety of techniques and methods can be selected to specifically cater the session to your needs.
 			</p>
 			<a href="https://clients.mindbodyonline.com/classic/ws?studioid=691320&stype=-9&sTG=4&sView=day&sLoc=0" target="_blank">
-				<p class="btn btn-primary">Book Now</p>
+			<p class="btn btn-primary">Book Now</p>
 			</a>
 		</div>
 		<div class="col-sm-6 col-md-4">
-			<h3>Signature Therapeutic Massage <br>
-			<span class="small">- 60 min at $129 ; 90 min at $159</span></h3>
-			<p>
-				Completely customizable and ideal to help you alleviate muscle tension, improve mobility, decrease pain, increase circulation and improve sleep. A variety of techniques and methods can be selected to specifically cater the session to your needs.
+			<h3>Performance and Recovery Sports Massage <br>
+			<span class="small">- 90 min at $99</span></h3>
+			<p class="small">
+				Experience better recovery from extreme fitness schedules and athletic training by incorporating massage into your routine. Includes bodywork, deep tissue work, and our signature releases to help your system return to balance and recover optimally.
 			</p>
 			<a href="https://clients.mindbodyonline.com/classic/ws?studioid=691320&stype=-9&sTG=4&sView=day&sLoc=0" target="_blank">
 				<p class="btn btn-primary">Book Now</p>
@@ -121,6 +123,7 @@
 		</div>
 	</div>
 </div>
+
 
 <!--Site's Footer-->
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/assets/includes/footer.php'); ?>

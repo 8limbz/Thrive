@@ -10,41 +10,43 @@
   padding-bottom: $jumbotron-padding;
   margin-bottom: $jumbotron-padding;
   color: $jumbotron-color;
-  background-image: url("/assets/images/page-banners/hp-slide.jpg");
+  background-image: url("http://via.placeholder.com/3800x1800");
+//  background-image: url("/assets/images/page-banners/hp-slide.jpg");
   background-size: cover;
-  background-position: top center;
+  background-position: center center;
   overflow: hidden;
 	
-	&.about-us { 
-		background-image: url("/assets/images/page-banners/about-bg.jpg");
-		background-position: left center;
+	&.about-us {
+		background-image: url("http://via.placeholder.com/3800x1800");
+//		background-image: url("/assets/images/page-banners/about-bg.jpg");
 	}
 	&.rppt {
-		background-image: url("/assets/images/page-banners/rppt-bg.jpg");
-		background-position: center center;
+		background-image: url("http://via.placeholder.com/3800x1800");
+//		background-image: url("/assets/images/page-banners/rppt-bg.jpg");
 	}
 	&.massage {
-		background-image: url("/assets/images/page-banners/massage-bg.jpg");
-		background-position: center center;
+		background-image: url("http://via.placeholder.com/3800x1800");
+//		background-image: url("/assets/images/page-banners/massage-bg.jpg");
 	}
 	&.acupuncture {
-		background-image: url("/assets/images/page-banners/acupuncture-bg.jpg");
-		background-position: center top;
+		background-image: url("http://via.placeholder.com/3800x1800");
+//		background-image: url("/assets/images/page-banners/acupuncture-bg.jpg");
 	}
 	&.mental {
-		background-image: url("/assets/images/page-banners/mental-bg.jpg");
-		background-position: center center;
+		background-image: url("http://via.placeholder.com/3800x1800");
+//		background-image: url("/assets/images/page-banners/mental-bg.jpg");
 	}
 	&.for-clients { 
-		background-image: url("/assets/images/page-banners/clients-bg.jpg");
+		background-image: url("http://via.placeholder.com/3800x1800");
+//		background-image: url("/assets/images/page-banners/clients-bg.jpg");
 	}
 	&.appointment {
-		background-image: url("/assets/images/page-banners/appointment-bg.jpg");
-		background-position: center center;
+		background-image: url("http://via.placeholder.com/3800x1800");
+//		background-image: url("/assets/images/page-banners/appointment-bg.jpg");
 	}
 	&.contact {
-		background-image: url("/assets/images/page-banners/contact-bg.jpg");
-		background-position: bottom center;
+		background-image: url("http://via.placeholder.com/3800x1800");
+//		background-image: url("/assets/images/page-banners/contact-bg.jpg");
 	}
 
   h1,

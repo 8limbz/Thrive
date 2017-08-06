@@ -58,13 +58,10 @@
 	</div>
 	
 	<div class="row">
-		<div class="col-sm-6 col-md-offset-2 col-md-4">
-			<h3>Memberships</h3>
-			<p>Memberships are designed to allow you to experience multiple services without the worry of financial ambiguity. We’ve created 3 monthly memberships that entitle clients to special offers, discounts, and upgrades.</p>
-		</div>
-		
 		<div class="col-sm-6 col-md-4">
-			<h3>Membership Plans</h3>
+			<h3>Memberships Plans</h3>
+			<p>Memberships are designed to allow you to experience multiple services without the worry of financial ambiguity. We’ve created 3 monthly memberships that entitle clients to special offers, discounts, and upgrades.</p>
+			
 			<h4><b>Premium</b> - $499 monthly</h4>
 			<p>
 				Unlimited 30 minute physical therapy sessions per month <br>
@@ -83,17 +80,14 @@
 		</div>
 
 		<div class="col-sm-6 col-md-offset-2 col-md-4">
-			<h3>Packages</h3>
+			<h3>Packages Deals</h3>
 			<p>We understand the expense of healthcare, which is why we offer incentives for those who choose to stay proactive. Packages are prepaid and provide you with flat, discounted rates on our services.</p>
-		</div>
-		
-		<div class="col-sm-6 col-md-4">
-			<h3>Package Deals</h3>
-			<h4><b>$792</b></h4>
+			
+			<h4><b>Nine Hour</b> - $792</h4>
 			<p>9 hours any service of your choice</p>
-			<h4><b>$549</b></h4>
+			<h4><b>Six Hour</b> - $549</h4>
 			<p>6 hours any service of your choice</p>
-			<h4><b>$297</b></h4>
+			<h4><b>Three Hour</b> - $297</h4>
 			<p>3 hours any service of your choice</p>
 		</div>
 	</div>
@@ -114,6 +108,22 @@
 		<!--How it works-->
 		<div class="row">
 			<div class="col-sm-6">
+				<h3>The Thrive App</h3>
+				<p>Use <a href="https://play.google.com/store/apps/details?id=com.fitnessmobileapps.thriveproactivehealth" target="_blank">The Thrive App</a> to collect your points and redeem your rewards. Our app also provides you with convenience in many other ways:</p>
+				<ul>
+					<li>
+						<p>Planning and scheduling appointments</p>
+					</li>
+					<li>
+						<p>Paying with your phone and pre-paying before appointments</p>
+					</li>
+					<li>
+						<p>Receiving special promotions, free event notifications, and earn extra wellness rewards points!</p>
+					</li>
+				</ul>
+				<p>The benefits are endless! Learn more and talk with a team member at our facility today! Already have an account? <a href="market://details?id=com.fitnessmobileapps.thriveproactivehealth" target="_blank">Login here</a>.</p>
+			</div>
+			<div class="col-sm-6">
 				<h3>How it works?</h3>
 				<ul>
 					<li>
@@ -133,22 +143,6 @@
 				Earn points when you engage with us on social media and sharing your experience with others! <br>
 				For every 500 points, receive $50 towards any of our services! <br>
 				Receive exclusive bonus offers, special prizes, and discounts.</p>
-			</div>
-			<div class="col-sm-6">
-				<h3>The Thrive App</h3>
-				<p>Use <a href="#" target="_blank">The Thrive App</a> to collect your points and redeem your rewards. Our app also provides you with convenience in many other ways:</p>
-				<ul>
-					<li>
-						<p>Planning and scheduling appointments</p>
-					</li>
-					<li>
-						<p>Paying with your phone and pre-paying before appointments</p>
-					</li>
-					<li>
-						<p>Receiving special promotions, free event notifications, and earn extra wellness rewards points!</p>
-					</li>
-				</ul>
-				<p>The benefits are endless! Learn more and talk with a team member at our facility today! Already have an account? <a href="#" target="_blank">Login here</a>.</p>
 			</div>
 		</div>
 	</div>

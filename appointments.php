@@ -25,7 +25,7 @@
 			<p class="lead">We do our best to accommodate your schedule and offer same day or next day appointments. Please let us know how to best meet your scheduling needs and preferences, as well as the type of appointment you would like to book. Once we are able, we will contact you to confirm the appointment.</p>
 			
 			<!--Book Now Message-->
-			<p class="lead">Don’t need to ask any questions and want to book right away? Look at our availability and schedule your appointment <a href="#">here</a>!</p>
+			<p class="lead">Don’t need to ask any questions and want to book right away? Look at our availability and schedule your appointment <a href="https://clients.mindbodyonline.com/ASP/adm/adm_appt_search.asp?studioid=691320&stype=&lvl=&catid=&prodid=&date=6%2F14%2F2017&classid=0&view=&sSU=&qParam=&trn=0&loc=1&tg=&vt=&justloggedin=&pMode=0&page=&prodGroupId=&optForwardingLink=&nLgIn=" target="_blank">here</a>!</p>
 		</div>
 	</div>
 </div>

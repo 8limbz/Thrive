@@ -2,6 +2,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="description" content="Thrive Proactive Health: The region’s premier health and wellness clinic.">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<!--<? ob_start("ob_gzhandler"); ?>-->
 
 <!-- Page styles -->
 <link rel="stylesheet" type="text/css" href="/assets/css/main.css">

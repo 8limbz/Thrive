@@ -73,7 +73,7 @@
 				<p class="col-md-offset-2 col-md-8">We are a team of trained professionals, innovators, life-long learners, and passionate providers</p>
 			</div>
 
-			<!--Julie Team Image-->
+			<!--Julie Blandin-->
 			<div class="col-sm-6 col-md-4">
 				<div class="team-thumb">
 					<figure>
@@ -81,7 +81,7 @@
 					</figure>
 					<figcaption>
 						<h4>Julie Blandin <br>
-						<span class="small">PT + ATC + CSCS + PRC</span></h4>
+						<span class="small">PT + ATC + CSCS + PRC | Provider</span></h4>
 						<p>Biomechanical Specialist and Movement Expert</p>
 						<a data-toggle="modal" href="#julie">Meet Julie</a>
 					</figcaption>
@@ -99,7 +99,7 @@
 					<div class="modal-body">
 					  <p><img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Julie Blandin"></p>
 					  <h3>Julie Blandin <br>
-					  <span class="small">PT + ATC + CSCS + PRC</span></h3>
+					  <span class="small">PT + ATC + CSCS + PRC  | Provider</span></h3>
 					  <h4 class="text-muted" style="margin-bottom: 20px;"><b>Biomechanical Specialist and Movement Expert</b></h4>
 					  <p>Julie is an industry leading Sports Rehab and Postural Restoration Specialist with over 17 years of experience in the Fitness and Sports Medicine industry. She is the only <a href="http://www.posturalrestoration.com/find-provider/member/2878-julie-blandin?region=" target="_blank">Hampton Roads Therapist Certified Provider</a> in <a href="/rppt">Postural Restoration</a>.</p>
 					  <p>Through her diverse educational background and willingness to explore the unknown, Julie has developed an extensive and unique postgraduate skillset to offer you a holistic perspective on injury rehabilitation, prevention, and maintenance. Julie's expertise bridges the gap between rehabilitation and performance. She highly values and understands the integration involved in the continuum of care associated with treating athletes and patients of all ages.</p>
@@ -168,6 +168,7 @@
 				</div><!-- /.modal-dialog -->
 			  </div><!-- /.modal -->
 
+			<!--Maureen Moore-->
 			<div class="col-sm-6 col-md-4">
 				<div class="team-thumb">
 					<figure>
@@ -175,7 +176,7 @@
 					</figure>
 					<figcaption>
 						<h4>Maureen Moore <br>
-						<span class="small">PTA + CMT</span></h4>
+						<span class="small">PTA + CMT | Provider</span></h4>
 						<p>BioMechanical Manual Therapy Specialist</p>
 						<a data-toggle="modal" href="#maureen">Meet Maureen</a>
 					</figcaption>
@@ -193,7 +194,7 @@
 					<div class="modal-body">
 					  <p><img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Maureen Moore"></p>
 					  <h3>Maureen Moore <br>
-					  <span class="small">PTA + CMT</span></h3>
+					  <span class="small">PTA + CMT | Provider</span></h3>
 					  <h4 class="text-muted" style="margin-bottom: 20px;"><b>BioMechanical Manual Therapy Specialist</b></h4>
 					  <p>Mo is a passionate holistic health advocate specializing in massage and various manual therapies with over 15 years of experience in the health and wellness field.</p>
 					  <p>She has further advanced her post graduate skills with the pursuit of the prestigious Postural Restoration Institute Certification and expanded her holistic expertise through the Institute of Integrative Nutrition. Her drive to learn and further help people led her to combine manual and biomechanical movement knowledge to create cutting-edge, specialized treatments. This diverse and demanding educational experience has allowed Maureen to live up to her desire of motivating, nurturing, and empowering people so that they can live a happy, healthy, balanced life.</p>
@@ -247,7 +248,8 @@
 				  </div><!-- /.modal-content -->
 				</div><!-- /.modal-dialog -->
 			  </div><!-- /.modal -->
-		
+
+			<!--Sarah Ratti-->
 			<div class="col-sm-6 col-md-4">
 				<div class="team-thumb">
 					<figure>
@@ -255,7 +257,7 @@
 					</figure>
 					<figcaption>
 						<h4>Sarah Ratti <br>
-						<span class="small">PTA + FMS</span></h4>
+						<span class="small">PTA + FMS | Provider</span></h4>
 						<p>Biomechanics and Movement Expert</p>
 						<a data-toggle="modal" href="#sarah">Meet Sarah</a>
 					</figcaption>
@@ -273,7 +275,7 @@
 					<div class="modal-body">
 					  <p><img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Maureen Moore"></p>
 					  <h3>Sarah Ratti <br>
-					  <span class="small">PTA + FMS</span></h3>
+					  <span class="small">PTA + FMS | Provider</span></h3>
 					  <h4 class="text-muted" style="margin-bottom: 20px;"><b>Biomechanics and Movement Expert</b></h4>
 					  <p>Sarah Ratti is a compassionate and honest movement expert and has been working in the physical therapy field for nearly 10 years.</p>
 					  <p>She has been dancing since she was 3 years old, and has been instructing ballroom dance and gymnastics for over ten years. Sarah strives to further her education and advance through more progressive knowledge of the human mechanical system. Her natural healing touch and patience, along with her understanding of human movement has helped many achieve paramount recoveries, eliminate pain, and enjoy a happier quality of life.</p>
@@ -324,6 +326,8 @@
 			  </div><!-- /.modal -->
 			
 			<div class="visible-md visible-lg clearfix"></div>
+			
+			<!--Tracy Heller-->
 			<div class="col-sm-6 col-md-4">
 				<div class="team-thumb">
 					<figure>
@@ -331,7 +335,7 @@
 					</figure>
 					<figcaption>
 						<h4>Tracy Heller <br>
-						<span class="small">PHD + CC-AASP + BCB</span></h4>
+						<span class="small">PHD + CC-AASP + BCB | Provider</span></h4>
 						<p>Mental Performance Specialist</p>
 						<a data-toggle="modal" href="#tracy">Meet Tracy</a>
 					</figcaption>
@@ -349,7 +353,7 @@
 					<div class="modal-body">
 					  <p><img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Maureen Moore"></p>
 					  <h3>Tracy Heller <br>
-					  <span class="small">PHD + CC-AASP + BCB</span></h3>
+					  <span class="small">PHD + CC-AASP + BCB | Provider</span></h3>
 					  <h4 class="text-muted" style="margin-bottom: 20px;"><b>Mental Performance Specialist</b></h4>
 					  <p>Dr. Heller specializes in helping individuals optimize their mindset in order to perform at their highest level. She is eager to provide services to individuals and groups that are motivated to move to the next level of success.</p>
 					  <p>From the time that she worked with a sport psychologist as a teenager, Tracy knew that this was the career for her. She is enthusiastic about providing innovative services using cutting edge skills and techniques that are supported by research. The tips and strategies from that she specializes in can help individuals breakthrough performance slumps, gain a sharper edge, and advance past their status quo both on and off the field.</p>
@@ -396,6 +400,7 @@
 				</div><!-- /.modal-dialog -->
 			  </div><!-- /.modal -->
 			
+			<!--Christine Sanchez-->
 			<div class="col-sm-6 col-md-4">
 				<div class="team-thumb">
 					<figure>
@@ -403,7 +408,7 @@
 					</figure>
 					<figcaption>
 						<h4>Christine Sanchez <br>
-						<span class="small">PHD + CC-ASP</span></h4>
+						<span class="small">PHD + CC-ASP | Provider</span></h4>
 						<p>Mental Performance Specialist</p>
 						<a data-toggle="modal" href="#christine">Meet Christine</a>
 					</figcaption>
@@ -421,7 +426,7 @@
 					<div class="modal-body">
 					  <p><img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Maureen Moore"></p>
 					  <h3>Christine Sanchez <br>
-					  <span class="small">PHD + CC-ASP</span></h3>
+					  <span class="small">PHD + CC-ASP | Provider</span></h3>
 					  <h4 class="text-muted" style="margin-bottom: 20px;"><b>Mental Performance Specialist</b></h4>
 					  <p>Dr. Sanchez specializes in providing mental and cognitive skills training for optimal performance in high pressure scenarios. She has over 10 years of experience working with athletes and other performers who desire to unlock their true potential.</p>
 					  <p>While swimming and rowing collegiately at Virginia Tech, Dr. Sanchez sought the expertise of a Sport Psychologist to help her through a performance slump. The positive impact this training had on her own athletic endeavors allowed her to realize her true passion - to assist others in achieving performance excellence while living a high quality, balanced life.</p>
@@ -471,7 +476,8 @@
 				  </div><!-- /.modal-content -->
 				</div><!-- /.modal-dialog -->
 			  </div><!-- /.modal -->
-			
+
+			<!--Chantal Owen-->
 			<div class="col-sm-6 col-md-4">
 				<div class="team-thumb">
 					<figure>
@@ -479,7 +485,7 @@
 					</figure>
 					<figcaption>
 						<h4>Chantal Owen <br>
-						<span class="small">CMT + CR + CCA</span></h4>
+						<span class="small">CMT + CR + CCA | Provider</span></h4>
 						<p>Pain Relief, Pain Management, and Relaxation Specialist</p>
 						<a data-toggle="modal" href="#chantal">Meet Chantal</a>
 					</figcaption>
@@ -497,7 +503,7 @@
 					<div class="modal-body">
 					  <p><img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Maureen Moore"></p>
 					  <h3>Chantal Owen <br>
-					  <span class="small">CMT + CR + CCA</span></h3>
+					  <span class="small">CMT + CR + CCA | Provider</span></h3>
 					  <h4 class="text-muted" style="margin-bottom: 20px;"><b>Pain Relief, Pain Management, and Relaxation Specialist</b></h4>
 					  <p>Chantal specializes in providing pain relief, pain management and relaxation to individuals seeking to optimize their personal and professional potential, well-being, and quality of life. She has over 8 years of experience working holistically with people challenged with acute and chronic musculoskeletal pain and dysfunctions, hormonal, digestive, and autoimmune disorders.</p>
 					  <p>Through her own life challenges and needs for physical, emotional and mental balance, Chantal has developed a unique set of skills and a keen sense of empathy for people eager to restore, improve and maintain their health and well-being. Her mission is to support her team’s work in providing peace, comfort, connection, meaning, and purpose during time of struggle, as well as physical demand and need for superior athletic performances.</p>
@@ -535,6 +541,114 @@
 							</li>
 						  </ul>
 					  </div>
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+					</div>
+				  </div><!-- /.modal-content -->
+				</div><!-- /.modal-dialog -->
+			  </div><!-- /.modal -->
+			  
+			  <!--Kristin VanderBloeman-->
+			  <div class="col-sm-6 col-md-4">
+				<div class="team-thumb">
+					<figure>
+						<img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Kristin VanderBloeman">
+					</figure>
+					<figcaption>
+						<h4>Kristin VanderBloeman</h4>
+						<p>Office Manager</p>
+						<a data-toggle="modal" href="#kristin">Meet Kristin</a>
+					</figcaption>
+				</div>
+			</div>
+			
+			  <!-- Modal -->
+			  <div class="modal fade" id="kristin" tabindex="-1" role="dialog" aria-labelledby="kristin" aria-hidden="true">
+				<div class="modal-dialog">
+				  <div class="modal-content">
+					<div class="modal-header">
+					  <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					  <h4 class="modal-title text-uppercase">Meet Kristin</h4>
+					</div>
+					<div class="modal-body">
+					  <p><img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Kristin VanderBloeman"></p>
+					  <h3>Kristin VanderBloeman</h3>
+					  <h4 class="text-muted" style="margin-bottom: 20px;"><b>Office Manager</b></h4>
+					  <p>Is an extremely valuable team member that helps to keep everyone organized, focused, and makes it possible for our providers to focus solely on patient care.</p>
+					  <p>Kristin comes to us with 9 years of management experience and 20 years of administrative experience. She loves to sing and can be heard humming and singing periodically through the clinic for your listening pleasure. She is an integral part of ensuring every patient has a wonderful experience.</p>
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+					</div>
+				  </div><!-- /.modal-content -->
+				</div><!-- /.modal-dialog -->
+			  </div><!-- /.modal -->
+			  	  
+			  <!--Tanisha Balarezo-->
+			  <div class="col-sm-6 col-md-4">
+				<div class="team-thumb">
+					<figure>
+						<img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Tanisha Balarezo">
+					</figure>
+					<figcaption>
+						<h4>Tanisha Balarezo</h4>
+						<p>Office Assistant/Receptionist</p>
+						<a data-toggle="modal" href="#tanisha">Meet Tanisha</a>
+					</figcaption>
+				</div>
+			</div>
+			
+			  <!-- Modal -->
+			  <div class="modal fade" id="tanisha" tabindex="-1" role="dialog" aria-labelledby="tanisha" aria-hidden="true">
+				<div class="modal-dialog">
+				  <div class="modal-content">
+					<div class="modal-header">
+					  <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					  <h4 class="modal-title text-uppercase">Meet Tanisha</h4>
+					</div>
+					<div class="modal-body">
+					  <p><img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Tanisha Balarezo"></p>
+					  <h3>Tanisha Balarezo</h3>
+					  <h4 class="text-muted" style="margin-bottom: 20px;"><b>Office Assistant/Receptionist</b></h4>
+					  <p>Is a compassionate, friendly, responsible member of our team that loves to learn and solve problems. Our team depends greatly on her as she is always ready to jump in a lend a hand to get the job done.</p>
+					  <p>Tanisha is a Massage Therapist by trade, and has 8 years of customer service experience. She runs the front desk here at Thrive to make sure everything runs smoothly and understands the importance of patient experience. She has a very calming way about her that makes everyone feel very comfortable.</p>
+					</div>
+					<div class="modal-footer">
+						<button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
+					</div>
+				  </div><!-- /.modal-content -->
+				</div><!-- /.modal-dialog -->
+			  </div><!-- /.modal -->
+			  
+			  <!--Courtney Hinton-->
+			  <div class="col-sm-6 col-md-4">
+				<div class="team-thumb">
+					<figure>
+						<img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Courtney Hinton">
+					</figure>
+					<figcaption>
+						<h4>Courtney Hinton</h4>
+						<p>Receptionist</p>
+						<a data-toggle="modal" href="#courtney">Meet Courtney</a>
+					</figcaption>
+				</div>
+			</div>
+			
+			  <!-- Modal -->
+			  <div class="modal fade" id="courtney" tabindex="-1" role="dialog" aria-labelledby="courtney" aria-hidden="true">
+				<div class="modal-dialog">
+				  <div class="modal-content">
+					<div class="modal-header">
+					  <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+					  <h4 class="modal-title text-uppercase">Meet Courtney</h4>
+					</div>
+					<div class="modal-body">
+					  <p><img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Courtney Hinton"></p>
+					  <h3>Courtney Hinton</h3>
+					  <h4 class="text-muted" style="margin-bottom: 20px;"><b>Receptionist</b></h4>
+					  <p>Is spunky, energetic, and loves to have good conversations. She can be found most afternoons working the front desk ensuring that every patient need is met.</p>
+					  <p>Courtney has 10 years of customer service experience with 3 years being in a healthcare setting. She is always willing to help and is able to make you feel right at home when you are visiting us at Thrive.</p>
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>

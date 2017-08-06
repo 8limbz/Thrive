@@ -49,6 +49,8 @@
 
 // Actual modal
 .modal-content {
+  max-width: 480px;
+  margin: 0 auto;
   position: relative;
   background-color: $modal-content-bg;
   border: 1px solid $modal-content-fallback-border-color; //old browsers fallback (ie8 etc)

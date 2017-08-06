@@ -36,20 +36,35 @@
 <!--Homepage About Us-->
 <ul class="flex-container">
   <li class="flex-item hp-1 text-center">
-	<h2 class="text-uppercase special">Will You<br>Choose to Thrive?</h2>
-	<p class="col-sm-offset-2 col-sm-8">We are the region’s premier health and wellness clinic. We offer natural and innovative solutions to restore, revive, and optimize the mind &amp; body. We are a team of trained professionals and innovators, and we choose to be a different kind of healthcare facility.</p>
+	<h2 class="text-uppercase special">Do more<br> than live&mdash;<strong>thrive</strong>.</h2>
+	<div class="col-sm-offset-2 col-sm-8 lead">
+		<p class="home-p">We are the region’s premier health and wellness clinic, and we want you to know that you are designed to <i>feel good</i>.</p>
+	</div>
   </li>
   
   <li class="flex-item hp-2"></li><!-- About Image -->
   
-  <li class="flex-item hp-3 text-center">
+  <li class="flex-item hp-3"></li>
+  
+  <li class="flex-item hp-4 text-center">
+  	<h2 class="text-uppercase special">A life designed<br>for more.</h2>
+  	<div class="col-sm-offset-2 col-sm-8">
+  		<p class="home-p">We look at the mind body connection systematically to evaluate and assess multiple systems that are interconnected and dependent on other another within the human body. We tap into multiple dimensions of neurophysiology to achieve faster outcomes and our services work together to provide holistic results for lifelong success.</p>
+  	</div>
+  </li>
+  
+  <li class="flex-item hp-5 text-center">
 	<!--  	Homepage Service Lines-->
   	<div class="col-md-12">
   	  <img src="/assets/images/svg/services-icon.svg" alt="Thrive Specialized Services" class="center-block services-icon">
   	  <h2 class="text-uppercase special wht">Our Specialized Services Lines</h2>
+  	  <div class="col-sm-offset-3 col-sm-6 hp-copy">
+  	  	<p>We offer natural and innovative solutions to restore, revive, and optimize the mind and body.</p>
+  	  </div>
   	</div>
+  	<div class="clearfix"></div>
   	
-  	<div class="col-md-4 service-line first-service">
+  	<div class="col-md-4 service-line">
   		<h3 class="text-uppercase">Restore</h3>
   		<p>Recover from injuries, repair mobility, and eliminate pain with therapeutic, rehab-based services.</p>
   	</div>
@@ -64,7 +79,7 @@
   </li>
   
 <!--  Homepage Booking-->
-  <li class="flex-item hp-4 text-center">
+  <li class="flex-item hp-6 text-center">
   	<h2 class="text-uppercase">Book Your Appointment Today</h2>
   	<a href="https://clients.mindbodyonline.com/ASP/adm/adm_appt_search.asp?reSchedule" target="_blank">
   		<div class="btn btn-primary">Book Now</div>

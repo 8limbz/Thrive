@@ -44,12 +44,42 @@ h6, .h6 {
   }
 }
 
-h1, .h1 { font-size: $font-size-h1; }
-h2, .h2 { font-size: $font-size-h2; }
-h3, .h3 { font-size: $font-size-h3; }
-h4, .h4 { font-size: $font-size-h4; }
-h5, .h5 { font-size: $font-size-h5; }
-h6, .h6 { font-size: $font-size-h6; }
+h1, .h1 { 
+	font-size: 30px;
+	@media (min-width: $screen-sm-min) {
+		font-size: $font-size-h1;
+	}
+}
+h2, .h2 { 
+	font-size: 26px;
+	@media (min-width: $screen-sm-min) {
+		font-size: $font-size-h2;
+	}
+}
+h3, .h3 { 
+	font-size: 22px;
+	@media (min-width: $screen-sm-min) {
+		font-size: $font-size-h3;
+	}
+}
+h4, .h4 { 
+	font-size: $font-size-h4;
+	@media (min-width: $screen-sm-min) {
+		font-size: $font-size-h4;
+	}
+}
+h5, .h5 { 
+	font-size: $font-size-h5;
+	@media (min-width: $screen-sm-min) {
+		
+	}
+}
+h6, .h6 { 
+	font-size: $font-size-h6;
+	@media (min-width: $screen-sm-min) {
+		
+	}
+}
 
 
 // Body text
@@ -144,13 +174,16 @@ mark,
 //Custom Headers
 .special {
     position: absolute;
-	min-width: 320px;
+	min-width: 260px;
 	top: 70px;
 	left: 50%;
 	padding: 10px;
 	color: $brand-primary;
 	transform: translate(-50%, -50%);
 	border-bottom: 4px solid $brand-primary;
+	@media (min-width: $screen-sm-min) {
+		min-width: 320px;
+	}
 	
 	&:before,
 	&:after{
@@ -183,13 +216,16 @@ mark,
 	}
   }
 .interior-headers {
-	max-width: 270px;
+	max-width: 260px;
 	position: relative;
 	padding-bottom: 10px;
 	margin-top: 0;
-	margin-bottom: 30px;
+	margin-bottom: 20px;
 	color: $brand-primary;
 	border-bottom: 4px solid $brand-primary;
+	@media (min-width: $screen-md-min) {
+		max-width: 320px;
+	}
 	
 	&:after {
 		content: url("/assets/images/svg/hr-icon.svg");

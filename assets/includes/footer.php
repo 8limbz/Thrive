@@ -23,16 +23,16 @@
       		<a href="https://www.google.com/maps/dir/Current+Location/2830+Virginia+Beach+Blvd+Virginia+Beach+VA+23452" target="_blank">Directions</a></p>
       		
       		<p><a href="tel:757-416-6700">Tel: 757-416-6700</a> <br>
-      		<a href="mailto:info@thrivevb.com?Subject=New%20Message%20from%20thrivevb.com">Email Us</a><br>
-     		<a href="fax:1*757-416-6700">Send Fax</a></p>
+      		<a href="fax:1*757-416-7777">Fax: 757-416-7777</a> <br>
+      		<a href="mailto:info@thrivevb.com?Subject=New%20Message%20from%20thrivevb.com">Email Us</a></p>
       	</div>
       	<div class="col-sm-6 col-md-4">
       		<h3>Hours</h3>
-      		<p>M - 9am to 7pm
-      		<br>Tu - 7:30am to 7pm
-      		<br>W - 7:30am to 7pm
-      		<br>Th - 9am to 7pm
-      		<br>F - 7:30am to 6pm
+      		<p>Mon - 9am to 7pm
+      		<br>Tue - 7:30am to 7pm
+      		<br>Wed - 7:30am to 7pm
+      		<br>Thu - 9am to 7pm
+      		<br>Fri - 7:30am to 6pm
       		<br>Sat - 9am to 2pm
       		<br>Sun - closed</p>
       	</div>
@@ -108,8 +108,16 @@
 <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha256-k2WSCIexGzOj3Euiig+TlR8gA0EmPjuc79OEeY5L45g=" crossorigin="anonymous"></script>
 <script src="/assets/js/bootstrap.min.js"></script>
 <!-- Typekit Fonts -->
-<script src="https://use.typekit.net/rxa6uum.js"></script>
-<script>try{Typekit.load({ async: true });}catch(e){}</script>
+<script>
+  (function(d) {
+    var config = {
+      kitId: 'rxa6uum',
+      scriptTimeout: 3000,
+      async: true
+    },
+    h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
 <!--Google Custom Map-->
 <script type="text/javascript" src="http://maps.google.com/maps/api/js?key=AIzaSyBupIZpg0jaQTL7tGdtTzHFWiDGb0mc1ng&sensor=false"></script>
 <script type="application/x-javascript" src="/assets/js/gmaps.js"></script>
@@ -118,24 +126,24 @@
 
     'use strict';
     
-    	var mapLocation = new google.maps.LatLng(36.8445305, -76.0711696);
+    	var mapLocation = new google.maps.LatLng(36.844295, -76.069144);
 
 		var $mapis = $('#map');
 		var $mapZoom;
 		if($(window).width()<992){
-			$mapZoom = 15;
+			$mapZoom = 16;
 		}else{
-			$mapZoom = 14;
+			$mapZoom = 16;
 		}
 
 		if ($mapis.length > 0) {
 			var map;
 			map = new GMaps({
-				streetViewControl : true,
-				overviewMapControl: true,
-				mapTypeControl: true,
-				zoomControl : true,
-				panControl : true,
+				streetViewControl : false,
+				overviewMapControl: false,
+				mapTypeControl: false,
+				zoomControl : false,
+				panControl : false,
 				scrollwheel: false,
 				center: mapLocation,
 				el: '#map',
