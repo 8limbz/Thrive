@@ -17,16 +17,15 @@
 </div>
 
 <!--Intro Message-->
-<div class="container">
+<!--<div class="container">
 	<div class="row text-center">
 		<div class="col-md-offset-2 col-md-8">
 			<p class="lead">Restore. Revive. Optimize.</p>
 		</div>
 	</div>
-</div>
+</div>-->
 
 <!--Restorative and Performace Physical Therapy-->
-<div class="drk">
 	<div class="container spacing">
 		<div class="row">	
 			<div class="col-sm-offset-2 col-sm-8">
@@ -39,50 +38,50 @@
 			</div>
 		</div>
 	</div>
-</div>
 
 <!--Specific Services-->
-<div class="container spacing">
-	<div class="row">
-		<h2 class="interior-headers centered text-uppercase">Specific Services</h2>
-		<!--Tune-up-->
-		<div class="col-sm-4">
-			<h3>Tune-Up <br>
-			<span class="small">- 30 mins at $89</span></h3>
-			<p class="small">
-				30 min of follow-up service assessment and intervention.
-			</p>
-			<p>
-				<a href="https://clients.mindbodyonline.com/ASP/adm/adm_appt_search.asp?reSchedule=" target="_blank" class="btn btn-primary">Book Now</a>
-			</p>
-		</div>
-		<!--Essential Session-->
-		<div class="col-sm-4">
-			<h3>Essential Session <br>
-			<span class="small">- 60 mins at $129</span></h3>
-			<p class="small">
-				Full service assessment and intervention.
-			</p>
-			<p>
-				<a href="https://clients.mindbodyonline.com/ASP/adm/adm_appt_search.asp?reSchedule=" target="_blank" class="btn btn-primary">Book Now</a>
-			</p>
-		</div>
-		<!--Advanced Session-->
-		<div class="col-sm-4">
-			<h3>Advanced Session <br>
-			<span class="small">- 90 mins at $159</span></h3>
-			<p class="small">
-				Upgraded full service assessment and intervention. 30 min of physical therapy combined with 60 min of ustomized massage.
-			</p>
-			<p>
-				<a href="https://clients.mindbodyonline.com/ASP/adm/adm_appt_search.asp?reSchedule=" target="_blank" class="btn btn-primary">Book Now</a>
-			</p>
+<div class="drk">
+	<div class="container spacing">
+		<div class="row">
+			<h2 class="interior-headers centered text-uppercase">Specific Services</h2>
+			<!--Tune-up-->
+			<div class="col-sm-4">
+				<h3>Tune-Up <br>
+				<span class="small">30 mins at $89</span></h3>
+				<p class="small">
+					30 min of follow-up service assessment and intervention.
+				</p>
+				<p>
+					<a href="https://clients.mindbodyonline.com/ASP/adm/adm_appt_search.asp?reSchedule=" target="_blank" class="btn btn-primary">Book Now</a>
+				</p>
+			</div>
+			<!--Essential Session-->
+			<div class="col-sm-4">
+				<h3>Essential Session <br>
+				<span class="small">60 mins at $129</span></h3>
+				<p class="small">
+					Full service assessment and intervention.
+				</p>
+				<p>
+					<a href="https://clients.mindbodyonline.com/ASP/adm/adm_appt_search.asp?reSchedule=" target="_blank" class="btn btn-primary">Book Now</a>
+				</p>
+			</div>
+			<!--Advanced Session-->
+			<div class="col-sm-4">
+				<h3>Advanced Session <br>
+				<span class="small">90 mins at $159</span></h3>
+				<p class="small">
+					Upgraded full service assessment and intervention. 30 min of physical therapy combined with 60 min of ustomized massage.
+				</p>
+				<p>
+					<a href="https://clients.mindbodyonline.com/ASP/adm/adm_appt_search.asp?reSchedule=" target="_blank" class="btn btn-primary">Book Now</a>
+				</p>
+			</div>
 		</div>
 	</div>
 </div>
 
 <!--Our Specialty Techniques-->
-<div class="drk">
 	<div class="container spacing">
 		<div class="row">
 			<h2 class="interior-headers centered text-uppercase">Our Specialty Techniques</h2>
@@ -183,14 +182,15 @@
 			</div><!-- /.modal -->
 		</div>
 	</div>
-</div>
 
 <!--Outro Message-->
-<div class="container spacing">
-	<div class="col-md-offset-2 col-md-8">
-		<p class="lead text-center remove-margin">
-			We believe that nobody should never live in pain and we take an integrative holistic approach to help you enhance your movement health and quality of life.
-		</p>
+<div class="drk">
+	<div class="container spacing">
+		<div class="col-md-offset-2 col-md-8">
+			<p class="lead text-center remove-margin">
+				We believe that nobody should ever live in pain and we take an integrative holistic approach to help you enhance your movement health and quality of life.
+			</p>
+		</div>
 	</div>
 </div>
 

@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<title>Memberships &amp; Packages | Thrive Proactive Health</title>
+<title>Memberships + Packages | Thrive Proactive Health</title>
 <!--Metas & Links-->
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/assets/includes/head.php'); ?>
 </head>
@@ -52,7 +52,7 @@
 <div class="container spacing">
 	<div class="row text-center">
 		<div class="col-md-offset-2 col-md-8">
-			<h2 class="interior-headers centered text-uppercase">Memberships<br>&amp; Packages</h2>
+			<h2 class="interior-headers centered text-uppercase">Memberships<br>and Packages</h2>
 			<div class="col-sm-offset-2 col-sm-8">
 				<p>It’s our goal to empower you to stay committed to your health. We’ve created memberships and packages, because we want you to <em>THRIVE</em>!</p>
 			</div>
@@ -64,33 +64,34 @@
 			<h3>Memberships Plans</h3>
 			<p style="margin-bottom: 20px;">Memberships are designed to allow you to experience multiple services without the worry of financial ambiguity. We’ve created 3 monthly memberships that entitle clients to special offers, discounts, and upgrades.</p>
 			
-			<h4><b>Premium</b> - $499 monthly</h4>
+			<h4><b>Essential</b> - $79 monthly</h4>
 			<p class="small">
-				Unlimited 30 minute physical therapy sessions per month <br>
-				40% off any additional services
+				1 hour of service per month <br>
+				20% off any additional services
 			</p>
 			<h4><b>Advanced</b> - $199 monthly</h4>
 			<p class="small">
 				3 hours of service per month <br>
 				40% off any additional services
 			</p>
-			<h4><b>Essential</b> - $79 monthly</h4>
+			<h4><b>Premium</b> - $499 monthly</h4>
 			<p class="small">
-				1 hour of service per month <br>
-				20% off any additional services
+				Unlimited 30 minute physical therapy sessions per month <br>
+				40% off any additional services
 			</p>
+			
 		</div>
 
 		<div class="col-sm-6 col-md-4">
 			<h3>Packages Deals</h3>
 			<p style="margin-bottom: 20px;">We understand the expense of healthcare, which is why we offer incentives for those who choose to stay proactive. Packages are prepaid and provide you with flat, discounted rates on our services.</p>
 			
-			<h4><b>Nine Hour</b> - $792</h4>
-			<p class="small">9 hours any service of your choice</p>
-			<h4><b>Six Hour</b> - $549</h4>
-			<p class="small">6 hours any service of your choice</p>
-			<h4><b>Three Hour</b> - $297</h4>
+			<h4><b>Thrive 3</b> - $297</h4>
 			<p class="small">3 hours any service of your choice</p>
+			<h4><b>Thrive 6</b> - $549</h4>
+			<p class="small">6 hours any service of your choice</p>
+			<h4><b>Thrive 9</b> - $792</h4>
+			<p class="small">9 hours any service of your choice</p>
 		</div>
 	</div>
 </div>

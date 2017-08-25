@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<title>Pricing &amp; Insurance | Thrive Proactive Health</title>
+<title>Pricing + Insurance | Thrive Proactive Health</title>
 <!--Metas & Links-->
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/assets/includes/head.php'); ?>
 </head>
@@ -30,7 +30,7 @@
 	<div class="container spacing">
 		<div class="row">
 			<div class="col-sm-offset-2 col-sm-8 col-md-offset-3 col-md-6">
-				<h2 class="interior-headers centered text-uppercase">Pricing &amp; Insurance</h2>
+				<h2 class="interior-headers centered text-uppercase">Pricing + Insurance</h2>
 				<p>We do offer a self pay option. For many of our clients with high deductible insurance plans and steep co-pays, this is a much more affordable way to go. We have put into place innovative alternative therapy options for you, so you can receive quality care without breaking the bank.</p>
 				<p>If you are looking to file through your insurance, please remember you are fully responsible for your copay, reaching your deductible, and any services not covered by your insurance.</p>
 				<p>We are in network with some insurances and you can <a href="/contact_us.php">call or email</a> our office to learn more. Currently we are considered a Participating Provider for the following networks:</p>
@@ -49,7 +49,7 @@
 				<h3 class="">We Accept</h3>
 				<p><img src="/assets/images/cards.png" alt="Accepting Credit Cards" class="img-responsive" style="max-width: 200px;"></p>
 				<p><img src="/assets/images/care-credit.png" alt="Care Credit" class="img-responsive" style="max-width: 100px;"></p>
-				<p class=""><a href="https://www.carecredit.com/apply/" target="_blank" class="btn btn-primary">Apply Now</a></p>
+				<p class=""><a href="https://www.carecredit.com/apply/" target="_blank" class="btn btn-primary" style="background-color: rgb(102,161,55); border: none;">Apply Now</a></p>
 			</div>
 		</div>
 	</div>

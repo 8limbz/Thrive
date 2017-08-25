@@ -33,13 +33,14 @@
   		  </li>
           <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="join-thrive">Join Thrive <span class="caret"></span></a> 
           	<ul class="dropdown-menu">
-          		<li><a href="/memberships_packages">Memberships and Packages</a></li>
+          		<li><a href="/memberships_packages">Memberships + Packages</a></li>
           		<li><a href="/testimonials">Testimonials</a></li>
           		<li><a href="/rewards">Earn Rewards</a></li>
-          		<li><a href="/pricing_insurance">Pricing &amp; Insurance</a></li>
+          		<li><a href="/pricing_insurance">Pricing + Insurance</a></li>
           	</ul>
           </li>
           <li><a href="/appointments">Appointments</a></li>
+          <li><a href="/join">Join Our Team</a></li>
           <li><a href="/contact_us">Contact Us</a></li>
         </ul>
       </div><!--/.nav-collapse -->

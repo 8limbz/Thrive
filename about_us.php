@@ -122,6 +122,7 @@
 									<li>Anatomy Trains</li>
 									<li>Various Manual Therapies</li>
 									<li><a href="#" target="_blank">Instrument Assisted Soft Tissue Mobilization</a></li>
+									<li>Certified Provider in Postural Restoration</li>
 								</ul>
 							</li>
 							<li>
@@ -148,17 +149,17 @@
 									<li>Fitness Professionals</li>
 								</ul>
 							</li>
-							<li>
-								<h4 class="text-muted">Julie outside of the office:</h4>
-								<ul>
-									<li>Loves Boating, Beach Days, and Country Concerts</li>
-									<li>A proud, Military Wife</li>
-									<li>Loves to eat anything Italian </li>
-									<li>Favorite Movie - Fast &amp; Furious</li>
-									<li>Favorite Music - Country</li>
-								</ul>
-							</li>
 						  </ul>
+					  </div>
+					  <div class="spacing">
+					  	<h3>Get to Know Julie Outside of the Office</h3>
+					  	<ul>
+					  		<li>Loves Boating, Beach Days, and Country Concerts</li>
+							<li>A proud, Military Wife</li>
+							<li>Loves to eat anything Italian </li>
+							<li>Favorite Movie - Fast &amp; Furious</li>
+							<li>Favorite Music - Country</li>
+					  	</ul>
 					  </div>
 					</div>
 					<div class="modal-footer">
@@ -208,6 +209,9 @@
 								<h4 class="text-muted">Licensed Massage Therapist</h4>
 							</li>
 							<li>
+								<h4 class="text-muted">Certified Provider in Postural Restoration</h4>
+							</li>
+							<li>
 								<h4 class="text-muted">Physical Therapist Assistant - Advanced training in:</h4>
 								<ul>
 									<li>Postural Restoration</li>
@@ -229,17 +233,17 @@
 							<li>
 								<h4 class="text-muted">Integrative Nutrition Health Coach from the Institute of Integrative Nutrition</h4>
 							</li>
-							<li>
-								<h4 class="text-muted">MO outside of the office:</h4>
-								<ul>
-									<li>Loves the water, paddle boarding, and getting creative in the kitchen</li>
-									<li>Happily married and mom to her rescue pups</li>
-									<li>Loves to eat her veggies, especially potatoes</li>
-									<li>Favorite movie - any movie with Chris Evans</li>
-									<li>Favorite music - Reggae</li>
-								</ul>
-							</li>
 						  </ul>
+					  </div>
+					  <div class="spacing">
+					  	<h3>Get to Know MO Outside of the Office</h3>
+					  	<ul>
+					  		<li>Loves the water, paddle boarding, and getting creative in the kitchen</li>
+							<li>Happily married and mom to her rescue pups</li>
+							<li>Loves to eat her veggies, especially potatoes</li>
+							<li>Favorite movie - any movie with Chris Evans</li>
+							<li>Favorite music - Reggae</li>
+					  	</ul>
 					  </div>
 					</div>
 					<div class="modal-footer">
@@ -289,6 +293,9 @@
 								<h4 class="text-muted">B.S. in Biology from Christopher Newport University</h4>
 							</li>
 							<li>
+								<h4 class="text-muted">Certified Provider in Postural Restoration</h4>
+							</li>
+							<li>
 								<h4 class="text-muted">Licensed Physical Therapy Assistant - Advanced training in:</h4>
 								<ul>
 									<li>Movement Impairments</li>
@@ -305,17 +312,17 @@
 							<li>
 								<h4 class="text-muted">Orthopedic and sports therapy training</h4>
 							</li>
-							<li>
-								<h4 class="text-muted">Sarah outside of the office:</h4>
-								<ul>
-									<li>Loves hiking, travelling, and the beach</li>
-									<li>Happily married</li>
-									<li>Likes to eat healthy, but also loves her ice cream</li>
-									<li>Favorite Movie - Captain America</li>
-									<li>Favorite music - Country</li>
-								</ul>
-							</li>
 						  </ul>
+					  </div>
+					  <div class="spacing">
+					  	<h3>Get to Know Sarah Outside of the Office</h3>
+					  	<ul>
+					  		<li>Loves hiking, travelling, and the beach</li>
+							<li>Happily married</li>
+							<li>Likes to eat healthy, but also loves her ice cream</li>
+							<li>Favorite Movie - Captain America</li>
+							<li>Favorite music - Country</li>
+					  	</ul>
 					  </div>
 					</div>
 					<div class="modal-footer">
@@ -381,16 +388,16 @@
 							<li>
 								<h4 class="text-muted">Member of Association of Applied Psychophysiology and Biofeedback</h4>
 							</li>
-							<li>
-								<h4 class="text-muted">MO outside of the office:</h4>
-								<ul>
-									<li>Loves lifting weights, trying new restaurants, and traveling</li>
-									<li>Loves to eat Apples and Pizza (not together, though)</li>
-									<li>Favorite movie - Star Wars</li>
-									<li>Favorite music - EDM</li>
-								</ul>
-							</li>
 						  </ul>
+					  </div>
+					  <div class="spacing">
+					  	<h3>Get to Know Tracy Outside of the Office</h3>
+					  	<ul>
+					  		<li>Loves lifting weights, trying new restaurants, and traveling</li>
+							<li>Loves to eat Apples and Pizza (not together, though)</li>
+							<li>Favorite movie - Star Wars</li>
+							<li>Favorite music - EDM</li>
+					  	</ul>
 					  </div>
 					</div>
 					<div class="modal-footer">
@@ -458,16 +465,16 @@
 							<li>
 								<h4 class="text-muted">Member of the Association of Applied Psychophysiology and Biofeedback (AAPB)</h4>
 							</li>
-							<li>
-								<h4 class="text-muted">Christine outside of the office:</h4>
-								<ul>
-									<li>Loves going to the beach, paddle boarding, and spending quality time with friends</li>
-									<li>Owner of a beautiful chocalate Lab, Brizo</li>
-									<li>Likes to eat Filet Mignon and Brick Oven Pizza</li>
-									<li>Favorite Movies - Pretty Woman and Top Gun</li>
-								</ul>
-							</li>
 						  </ul>
+					  </div>
+					  <div class="spacing">
+					  	<h3>Get to Know Christine Outside of the Office</h3>
+					  	<ul>
+					  		<li>Loves going to the beach, paddle boarding, and spending quality time with friends</li>
+							<li>Owner of a beautiful chocalate Lab, Brizo</li>
+							<li>Likes to eat Filet Mignon and Brick Oven Pizza</li>
+							<li>Favorite Movies - Pretty Woman and Top Gun</li>
+					  	</ul>
 					  </div>
 					</div>
 					<div class="modal-footer">
@@ -521,6 +528,9 @@
 								<h4 class="text-muted">Certified Reflexologist</h4>
 							</li>
 							<li>
+								<h4 class="text-muted">Certified Provider in Postural Restoration</h4>
+							</li>
+							<li>
 								<h4 class="text-muted">Certified Clinical Aromatherapist</h4>
 							</li>
 							<li>
@@ -529,17 +539,17 @@
 							<li>
 								<h4 class="text-muted">Trained in Medical, Sport, Myofascial Release, Neuromuscular, Hot Stones, and massage for cancer, mastectomy, and breast surgeries</h4>
 							</li>
-							<li>
-								<h4 class="text-muted">Chantal outside of the office:</h4>
-								<ul>
-									<li>Loves to garden, read books, and walk through beautiful parks</li>
-									<li>A French native who moved to the US with her beloved husband and cats</li>
-									<li>Loves all things chocolate</li>
-									<li>Favorite TV Show - The Big Bang Theory</li>
-									<li>Favorite Music - Michael Buble</li>
-								</ul>
-							</li>
 						  </ul>
+					  </div>
+					  <div class="spacing">
+					  	<h3>Get to Know Chantal Outside of the Office</h3>
+					  	<ul>
+					  		<li>Loves to garden, read books, and walk through beautiful parks</li>
+							<li>A French native who moved to the US with her beloved husband and cats</li>
+							<li>Loves all things chocolate</li>
+							<li>Favorite TV Show - The Big Bang Theory</li>
+							<li>Favorite Music - Michael Buble</li>
+					  	</ul>
 					  </div>
 					</div>
 					<div class="modal-footer">
@@ -577,6 +587,16 @@
 					  <h4 class="text-muted" style="margin-bottom: 20px;"><b>Office Manager</b></h4>
 					  <p>Is an extremely valuable team member that helps to keep everyone organized, focused, and makes it possible for our providers to focus solely on patient care.</p>
 					  <p>Kristin comes to us with 9 years of management experience and 20 years of administrative experience. She loves to sing and can be heard humming and singing periodically through the clinic for your listening pleasure. She is an integral part of ensuring every patient has a wonderful experience.</p>
+					  <div class="spacing">
+					  	<h3>Get to Know Kristin Outside of the Office</h3>
+					  	<ul>
+					  		<li>She loves to sing, scrapbook, and spend time with her husband and 3 kids.</li>
+							<li>She is known as the “mom” of the clinic.</li>
+							<li>She loves to eat SUSHI!!!!</li>
+							<li>Favorite Movie - Benny &amp; Joon (showing my age here!)</li>
+							<li>Favorite Music - She like all types of music. Whatever sounds good that she can sing to is where the radio dial stops.</li>
+					  	</ul>
+					  </div>
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
@@ -593,7 +613,7 @@
 					</figure>
 					<figcaption>
 						<h4>Tanisha Balarezo</h4>
-						<p>Office Assistant/Receptionist</p>
+						<p>Office Assistant</p>
 						<a data-toggle="modal" href="#tanisha">Meet Tanisha</a>
 					</figcaption>
 				</div>
@@ -613,6 +633,16 @@
 					  <h4 class="text-muted" style="margin-bottom: 20px;"><b>Office Assistant/Receptionist</b></h4>
 					  <p>Is a compassionate, friendly, responsible member of our team that loves to learn and solve problems. Our team depends greatly on her as she is always ready to jump in a lend a hand to get the job done.</p>
 					  <p>Tanisha is a Massage Therapist by trade, and has 8 years of customer service experience. She runs the front desk here at Thrive to make sure everything runs smoothly and understands the importance of patient experience. She has a very calming way about her that makes everyone feel very comfortable.</p>
+					  <div class="spacing">
+					  	<h3>Get to Know Tanisha Outside of the Office</h3>
+					  	<ul>
+					  		<li>She enjoys reading, walking &amp; being with family.</li>
+							<li>She is known as the quiet one and loves being a support system and helping others thrive.</li>
+							<li>Sushi, Italian and cheesecake are her favorite things to eat.</li>
+							<li>Favorite Movie - Planet of the Apes (the old and the new).</li>
+							<li>Favorite Song - Better Days by Diane Reeves.</li>
+					  	</ul>
+					  </div>
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
@@ -649,6 +679,16 @@
 					  <h4 class="text-muted" style="margin-bottom: 20px;"><b>Receptionist</b></h4>
 					  <p>Is spunky, energetic, and loves to have good conversations. She can be found most afternoons working the front desk ensuring that every patient need is met.</p>
 					  <p>Courtney has 10 years of customer service experience with 3 years being in a healthcare setting. She is always willing to help and is able to make you feel right at home when you are visiting us at Thrive.</p>
+					  <div class="spacing">
+					  	<h3>Get to Know Courtney Outside of the Office</h3>
+					  	<ul>
+					  		<li>She loves being at the gym or outdoors kayaking and hiking.</li>
+							<li>She is an adventure seeker. She loves exploring new places and breaking out of her comfort zone. She’s also a traveler in the making and a social Butterfly.</li>
+							<li>Her favorite foods are pizza and tacos.</li>
+							<li>Favorite Movie - she likes books more than movies. Specifically, fiction stories, action and life changing books.</li>
+							<li>Favorite Music - Everything Country!!</li>
+					  	</ul>
+					  </div>
 					</div>
 					<div class="modal-footer">
 						<button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>

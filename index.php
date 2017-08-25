@@ -56,8 +56,8 @@
   <li class="flex-item hp-5 text-center">
 	<!--  	Homepage Service Lines-->
   	<div class="col-md-12">
-  	  <img src="/assets/images/svg/services-icon.svg" alt="Thrive Specialized Services" class="center-block services-icon">
   	  <h2 class="text-uppercase special wht">Our Specialized Services Lines</h2>
+  	  <div class="clearfix"></div>
   	  <div class="col-sm-offset-3 col-sm-6 hp-copy">
   	  	<p>We offer natural and innovative solutions to restore, revive, and optimize the mind and body.</p>
   	  </div>
@@ -65,14 +65,17 @@
   	<div class="clearfix"></div>
   	
   	<div class="col-md-4 service-line">
+  		<img src="/assets/images/thrive_icon_restore.png" alt="Thrive Restore Icon" class="thrive-icon">
   		<h3 class="text-uppercase">Restore</h3>
   		<p>Recover from injuries, repair mobility, and eliminate pain with therapeutic, rehab-based services.</p>
   	</div>
   	<div class="col-md-4 service-line">
+  		<img src="/assets/images/thrive_icon_revive.png" alt="Thrive Revive Icon" class="thrive-icon">
   		<h3 class="text-uppercase">Revive</h3>
   		<p>Rebalance your body, refocus and awaken your mind with routine ‘maintenance’ to stay wellness-based.</p>
   	</div>
   	<div class="col-md-4 service-line">
+  		<img src="/assets/images/thrive_icon_optimize.png" alt="Thrive Optimize Icon" class="thrive-icon">
   		<h3 class="text-uppercase">Optimize</h3>
   		<p>Intensify your drive and enhance your ability to perform for goal completion and future success.</p>
   	</div>

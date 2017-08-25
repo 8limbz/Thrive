@@ -20,10 +20,12 @@
 <div class="container spacing article">
 	<div class="row">
 		<div class="col-md-12">
+			<p><img src="/assets/images/thrive-process.png" class="img-responsive center-block" alt="The Thrive Process Icon" style="max-width: 120px;"></p>
 			<h2 class="interior-headers centered text-uppercase">The <strong>Thrive</strong> Process</h2>
 		</div>
+		
 		<div class="col-sm-offset-2 col-sm-8 col-md-offset-3 col-md-6">
-			<p>We believe that healthcare is specific to each individual and that services should be catered to your body.</p>
+			<p>We believe that healthcare is specific to each individual and that services should be catered to your body. It’s our goal to help you find balance–whether that means pulling your pendulum to the left or to the right in order to find your perfect middle ground, and working to keep it consistently centered.</p>
 			<p>We do not chase or treat symptoms. We identify the root cause of your limitation, pain, plateau or difficulty in performance—as well as the patterns of behavior contributing to the concern at hand.</p>
 		</div>
 	</div>
@@ -94,7 +96,7 @@
 <div class="drk">
 	<div class="container spacing">
 	<div class="col-md-offset-2 col-md-8">
-		<p class="lead text-center remove-margin">Our services are designed to allow to empower health, embrace wellness, and enhance performance in fitness, sport, work, and your everyday life. Let us be your partner in proactive health.</p>
+		<p class="lead text-center remove-margin">Our services are designed to empower health, embrace wellness, and enhance performance in fitness, sport, work, and your everyday life. Let us be your partner in proactive health.</p>
 	</div>
 </div>
 </div>

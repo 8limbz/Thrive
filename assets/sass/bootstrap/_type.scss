@@ -199,20 +199,11 @@ mark,
 	}
 	
 	&.wht {
-		margin-top: 130px;
 		color: #fff;
 		border-bottom-color: #fff;
 		
 		&:before,
 		&:after { content: url("/assets/images/svg/hr-icon-wht.svg")}
-		
-		@media (min-width: 980px) {
-			margin-top: 115px;
-		}
-		
-		@media (min-width: $screen-md-min) {
-			margin-top: 170px;
-		}
 	}
   }
 .interior-headers {

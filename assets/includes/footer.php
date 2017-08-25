@@ -32,7 +32,7 @@
       		<br>Tue - 7:30am to 7pm
       		<br>Wed - 7:30am to 7pm
       		<br>Thu - 9am to 7pm
-      		<br>Fri - 7:30am to 6pm
+      		<br>Fri - 7:30am to 7pm
       		<br>Sat - 9am to 2pm
       		<br>Sun - closed</p>
       	</div>
