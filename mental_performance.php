@@ -33,17 +33,13 @@
 				<h2 class="interior-headers centered text-uppercase">Mental Performance</h2>
 			</div>
 			<div class="col-sm-offset-2 col-sm-8">
+				<div class="embed-container h2">
+					<iframe src="https://player.vimeo.com/video/198519800?title=0&byline=0&portrait=0" class="embed-video" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				</div>
 				<p>Awaken your drive and enhance your ability to perform for future success. Mental Performance integrates the fields of Sport Science and Applied Sport + Performance Psychology to teach recovery techniques and enhance your overall performance.</p>
 				<p>Performers of all domains such as, athletes, coaches, teams, business executives, law enforcement, entertainers, military personnel, or busy ‘super’ moms, can benefit from implementing strategic and deliberate mental skills training to their daily routine.</p>
 				<p>Biofeedback Technology is integrated alongside of a consultation schedule to provide tangible data on how the body regulates the stress response and a plan that is customized specifically for your optimization needs.</p>
 				<p>We work to assist you in narrowing your performance gap by enhancing confidence, effective thinking, goal setting, rebounding from mistakes, attention control, self-regulation of psychophysiology, and mental imagery.</p>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-offset-2 col-sm-8">
-				<div class="embed-container">
-					<iframe src="https://player.vimeo.com/video/198519800?title=0&byline=0&portrait=0" class="embed-video" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-				</div>
 			</div>
 		</div>
 	</div>
