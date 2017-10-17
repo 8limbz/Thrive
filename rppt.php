@@ -29,12 +29,12 @@
 	<div class="container spacing">
 		<div class="row">	
 			<div class="col-sm-offset-2 col-sm-8">
-				<h2 class="interior-headers centered text-uppercase">Restorative and Performance Physical Therapy</h2>
-				<p>With advanced techniques, we aim to fix the mechanical failure that causes you to experience pain. Whether joint pain, excessive muscle tension, muscle pain, decreased or inefficient mobility, headaches, and any other symptom–we analyze and treat the body based on WHY the dysfunction is caused.</p>
+				<h2 class="interior-headers centered text-uppercase">Restorative + Performance Physical Therapy</h2>
 				<p><img src="http://via.placeholder.com/1350x750" class="img-responsive" alt="Thrive — Restorative and Performance Physical Therapy"></p>
+				<p>With advanced techniques, we aim to fix the mechanical failure that causes you to experience pain. Whether joint pain, excessive muscle tension, muscle pain, decreased or inefficient mobility, headaches, and any other symptom–we analyze and treat the body based on why the dysfunction is caused.</p>
 				<p>Our bodies are mechanical in nature and with the right kind of care, they can become mechanically re-aligned, re-calibrated, and re-balanced.</p>
 				<p>Unlike other forms of therapy, our team focuses on treating sport, orthopedic, and other injuries as part of a system, rather than as isolated injuries and symptoms. Our aim is to identify the root cause of your pain and balance the biomechanics of your body’s entire system.</p>
-				<p>Our Movement Health experts consist of Sports &amp; Spine specialists and Physical &amp; Massage Specialists.</p>
+				<p>Our Movement Health experts consist of Sports + Spine specialists and Physical + Massage Specialists.</p>
 			</div>
 		</div>
 	</div>
@@ -71,7 +71,7 @@
 				<h3>Advanced Session <br>
 				<span class="small">90 mins at $159</span></h3>
 				<p class="small">
-					Upgraded full service assessment and intervention. 30 min of physical therapy combined with 60 min of ustomized massage.
+					Upgraded full service assessment and intervention. 30 min of physical therapy combined with 60 min of customized massage.
 				</p>
 				<p>
 					<a href="https://clients.mindbodyonline.com/ASP/adm/adm_appt_search.asp?reSchedule=" target="_blank" class="btn btn-primary">Book Now</a>
@@ -146,7 +146,7 @@
 						</div>
 						<div class="modal-body">
 							<h3>Dry Needling</h3>
-							<p><a href="https://integrativedryneedling.com/resources/history-integrative-dry-needling/" target="_blank">Integrative</a> Dry Needling is based off the work or <a href="https://integrativedryneedling.com/resources/history-integrative-dry-needling/" target="_blank">Dr. Yun-tao Ma, PhD</a> and is an important modality in modern day Physical Therapy. This kind of treatment is powerful in treating soft tissue dysfunction, musculoskeletal pain, neuromuscular injury/imbalance and can accelerate the process of returning a patient's body to a state of homeostasis. <strong>Dry Needling should not be be confused with acupuncture and a complete acupuncture treatment might yield a holistic benefit above and beyond our limited dry needling treatment.</strong></p>
+							<p><a href="https://integrativedryneedling.com/resources/history-integrative-dry-needling/" target="_blank">Integrative</a> Dry Needling is based off the work of <a href="https://integrativedryneedling.com/resources/history-integrative-dry-needling/" target="_blank">Dr. Yun-tao Ma, PhD</a> and is an important modality in modern day Physical Therapy. This kind of treatment is powerful in treating soft tissue dysfunction, musculoskeletal pain, neuromuscular injury/imbalance and can accelerate the process of returning a patient's body to a state of homeostasis. <strong>Dry Needling should not be confused with acupuncture and a complete acupuncture treatment might yield a holistic benefit above and beyond our limited dry needling treatment.</strong></p>
 							<p class="small">*The State of Virginia requires that dry needling be performed under the written referral and direction from a physician. If you would like dry needling incorporated into your treatment please be sure your doctor includes that in your referral for physical therapy.</p>
 						</div>
 						<div class="modal-footer">
@@ -185,7 +185,7 @@
 
 <!--Outro Message-->
 <div class="drk">
-	<div class="container spacing">
+	<div class="container end-spacing">
 		<div class="col-md-offset-2 col-md-8">
 			<p class="lead text-center remove-margin">
 				We believe that nobody should ever live in pain and we take an integrative holistic approach to help you enhance your movement health and quality of life.

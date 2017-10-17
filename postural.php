@@ -20,7 +20,7 @@
 <div class="container spacing article">
 	<div class="row">
 		<div class="col-sm-6">
-			<h2>An Innovative Science used to Restore &amp; Optimize Human Movement and Postural Health</h2>
+			<h2>An Innovative Science used to Restore + Optimize Human Movement and Postural Health</h2>
 		</div>
 		<div class="clearfix"></div>
 		<div class="col-sm-6">

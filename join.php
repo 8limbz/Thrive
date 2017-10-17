@@ -21,7 +21,7 @@
 		<div class="row">	
 			<div class="col-sm-offset-2 col-sm-8">
 				<h2 class="interior-headers centered text-uppercase">Join Our Team</h2>
-				<p class="lead">THRIVE Proactive Health is a special place and different type of facility. We accomplish great things and have a great time doing it <b>together</b>!.</p>
+				<p class="lead">Thrive Proactive Health is a special place and different type of facility. We accomplish great things and have a great time doing it <b>together</b>!</p>
 				<p><img src="http://via.placeholder.com/1350x750" class="img-responsive" alt="Thrive — Restorative and Performance Physical Therapy"></p>
 				<p>We are always looking for innovative and motivated professionals who are continuously striving to better themselves and be a part of a high level functioning team. Our goal is to expand our service lines to form the best integrative team of providers in Hampton Roads.</p>
 				<h3>Do you want to be a part of Thrive Proactive Health?</h3>
@@ -34,7 +34,10 @@
 <div class="drk">
 	<div class="container spacing">
 		<div class="row">
-			<h2 class="interior-headers centered text-uppercase">Current Openings</h2>
+			<div class="col-sm-8 col-sm-offset-2">
+				<h3>Current Openings</h3>
+				<script type="text/javascript" src="//app.jazz.co/widgets/basic/create/thriveproactivehealth" charset="utf-8"></script>
+			</div>
 		</div>
 	</div>
 </div>

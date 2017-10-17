@@ -20,7 +20,7 @@
 <div class="container">
 	<div class="row">
 		<div class="col-md-offset-2 col-md-8">
-			<p class="lead">Our bodies need attention and maintenance to <em>Thrive</em>–so, if you aren’t paying for a proactive, healthy lifestyle, then you’ll be paying for illness, injury, pain, and reactive health.</p>
+			<p class="lead">Our bodies need attention and maintenance to <strong>Thrive</strong>–so, if you aren’t paying for a proactive, healthy lifestyle, then you’ll be paying for illness, injury, pain, and reactive health.</p>
 		</div>
 	</div>
 </div>
@@ -29,8 +29,9 @@
 <div class="drk">
 	<div class="container spacing">
 		<div class="row">
-			<div class="col-sm-offset-2 col-sm-8 col-md-offset-3 col-md-6">
+			<div class="col-sm-offset-2 col-sm-8 col-md-offset-2 col-md-8">
 				<h2 class="interior-headers centered text-uppercase">Pricing + Insurance</h2>
+				<p><img src="http://via.placeholder.com/1350x750" class="img-responsive" alt="Thrive — Pricing + Insurance"></p>
 				<p>We do offer a self pay option. For many of our clients with high deductible insurance plans and steep co-pays, this is a much more affordable way to go. We have put into place innovative alternative therapy options for you, so you can receive quality care without breaking the bank.</p>
 				<p>If you are looking to file through your insurance, please remember you are fully responsible for your copay, reaching your deductible, and any services not covered by your insurance.</p>
 				<p>We are in network with some insurances and you can <a href="/contact_us.php">call or email</a> our office to learn more. Currently we are considered a Participating Provider for the following networks:</p>
@@ -45,7 +46,7 @@
 					<li>Optima PPO </li>
 				</ul>
 				<h3>Military Insurance</h3>
-				<p>We are proud to serve our military families. Please note that you must call to request Tricare authorization or request <em>Thrive</em> Proactive Health when meeting with your doctor. This request must be approved by your Doctor and Command. We are happy to help provide consultation and answers to challenging cases not responding fully to traditional Physical Therapy services offered on base.</p>
+				<p>We are proud to serve our military families. Please note that you must call to request Tricare authorization or request <span>Thrive</span> Proactive Health when meeting with your doctor. This request must be approved by your Doctor and Command. We are happy to help provide consultation and answers to challenging cases not responding fully to traditional Physical Therapy services offered on base.</p>
 				<h3 class="">We Accept</h3>
 				<p><img src="/assets/images/cards.png" alt="Accepting Credit Cards" class="img-responsive" style="max-width: 200px;"></p>
 				<p><img src="/assets/images/care-credit.png" alt="Care Credit" class="img-responsive" style="max-width: 100px;"></p>
@@ -59,8 +60,9 @@
 <div class="">
 	<div class="container spacing">
 		<div class="row">
-			<div class="col-sm-offset-2 col-sm-8 col-md-offset-3 col-md-6">
+			<div class="col-sm-offset-2 col-sm-8 col-md-offset-2 col-md-8">
 				<h2 class="interior-headers centered text-uppercase">Pre-Treatment Questions</h2>
+				<p><img src="http://via.placeholder.com/1350x750" class="img-responsive" alt="Thrive — Pre-Treatment Questions"></p>
 				<ul>
 					<li>
 						<p>Do I need a prescription from a physician, or preauthorization, for physical therapy?</p>

@@ -31,12 +31,10 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-offset-2 col-sm-8">
-						<h2 class="interior-headers centered text-uppercase">Acupuncture</h2>	
+						<h2 class="interior-headers centered text-uppercase">Acupuncture + Chinese Herbology</h2>
+							<p><img src="http://via.placeholder.com/1350x750" class="img-responsive" alt="Thrive — Acupuncture"></p>
 							<p>A 3,000 year old healing technique of Traditional Oriental Medicine. The US National Institute of Health (NIH) has documented and publicized Acupuncture's safety and efficacy for treating a wide variety of health conditions.</p>
 							<p><p>This science works to treat and stimulate the balanced flow of vital energy through the body. This energy flow is known as "Qi" and is essential to good health. Qi is responsible for our overall wellbeing, self regulation and healing potential.  When it’s balance is deficient or obstructed, the body becomes vulnerable, diseased, imbalanced, and susceptible to illness or injury. It's the harmonious flow of Qi that allows us to feel positive feelings of health and vitality physically, mentally, and emotionally.</p></p>
-					</div>
-					<div class="col-sm-offset-2 col-sm-8">
-						<p><img src="http://via.placeholder.com/1350x750" class="img-responsive" alt="Thrive — Acupuncture"></p>
 					</div>
 				</div>
 			</div>
@@ -99,7 +97,7 @@
 						</div>
 						<div class="modal-body">
 							<h3>Traditional Acupuncture</h3>
-							<p>Traditional ccupuncture stimulates release of endorphins (the body's natural pain-relieving neurohormones) through the insertion of needles into specific acupuncture points to encourage self natural healing. Acupuncture points are known to affect chemical neurotransmitters in the body and more than 2000 points are connected by pathways and meridians which our vital energy "Qi" flows throughout the entire body.</p>
+							<p>Traditional acupuncture stimulates release of endorphins (the body's natural pain-relieving neurohormones) through the insertion of needles into specific acupuncture points to encourage self natural healing. Acupuncture points are known to affect chemical neurotransmitters in the body and more than 2000 points are connected by pathways and meridians which our vital energy "Qi" flows throughout the entire body.</p>
 						</div>
 						<div class="modal-footer">
 							<button type="button" class="btn btn-primary" data-dismiss="modal">Close</button>
@@ -164,10 +162,10 @@
 
 <!--Outro Message-->
 <div class="drk">
-	<div class="container spacing">
+	<div class="container end-spacing">
 		<div class="col-md-offset-2 col-md-8">
 			<p class="lead text-center remove-margin">
-				Find balance and receive the benefits of holistic treatment with our Acupuncture services today!
+				Find balance and receive the benefits of holistic treatment with Acupuncture.
 			</p>
 		</div>
 	</div>

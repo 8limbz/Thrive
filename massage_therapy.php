@@ -21,12 +21,8 @@
 		<div class="row">	
 			<div class="col-md-offset-2 col-md-8">
 				<h2 class="interior-headers centered text-uppercase">Massage Therapy</h2>
-				<p>With advanced techniques, we aim to fix the mechanical failure that causes you to experience pain. Whether joint pain, excessive muscle tension, muscle pain, decreased or inefficient mobility, headaches, and any other symptom–we analyze and treat the body based on WHY the dysfunction is caused.</p>
-			</div>
-		</div>
-		<div class="row">
-			<div class="col-sm-offset-2 col-sm-8">
 				<p><img src="http://via.placeholder.com/1350x750" class="img-responsive h5" alt="Thrive — Massage Therapy"></p>
+				<p>With advanced techniques, we aim to fix the mechanical failure that causes you to experience pain. Whether joint pain, excessive muscle tension, muscle pain, decreased or inefficient mobility, headaches, and any other symptom–we analyze and treat the body based on why the dysfunction is caused.</p>
 			</div>
 		</div>			
 	</div>
@@ -144,10 +140,10 @@
 
 <!--Outro Message-->
 <div class="drk">
-	<div class="container spacing">
+	<div class="container end-spacing">
 		<div class="col-md-offset-2 col-md-8">
 			<p class="lead text-center remove-margin">
-				We believe that nobody should never live in pain and we take an integrative holistic approach to help you enhance your movement health and quality of life.
+				We believe that nobody should ever live in pain and we take an integrative holistic approach to help you enhance your movement health and quality of life.
 			</p>
 		</div>
 	</div>

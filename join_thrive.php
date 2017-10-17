@@ -1,7 +1,7 @@
 <!doctype html>
 <html>
 <head>
-<title>Memberships + Packages | Thrive Proactive Health</title>
+<title>Join Thrive | Thrive Proactive Health</title>
 <!--Metas & Links-->
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/assets/includes/head.php'); ?>
 </head>
@@ -37,11 +37,11 @@
 			<div class="col-md-4">
 				<div class="hidden-md hidden-lg text-center col-sm-offset-2 col-sm-8">
 					<h2 class="interior-headers video-header centered text-uppercase">Join <strong>Thrive</strong></h2><!--mobile-->
-					<p>If you’re looking to prepare for your upcoming appointment, fill out your <a href="https://www.waiverking.com/print/7012" target="_blank">New Patient and Client Intake Form</a></p>
+					<p>If you’re looking to prepare for your upcoming appointment, fill out your <a href="https://www.waiverking.com/print/7012" target="_blank">New Patient and Client Intake Form</a>.</p>
 				</div>
 				<div class="hidden-xs hidden-sm">
 					<h2 class="interior-headers text-uppercase">Join Thrive</h2>
-				<p>If you’re looking to prepare for your upcoming appointment, fill out your <a href="https://www.waiverking.com/print/7012" target="_blank">New Patient and Client Intake Form</a></p>
+				<p>If you’re looking to prepare for your upcoming appointment, fill out your <a href="https://www.waiverking.com/print/7012" target="_blank">New Patient and Client Intake Form</a>.</p>
 				</div>
 			</div>
 		</div>
@@ -52,8 +52,9 @@
 <div class="container spacing">
 	<div class="row text-center">
 		<div class="col-md-offset-2 col-md-8">
-			<h2 class="interior-headers centered text-uppercase">Memberships<br>and Packages</h2>
+			<h2 class="interior-headers centered text-uppercase">Memberships<br>+ Packages</h2>
 			<div class="col-sm-offset-2 col-sm-8">
+				<p><img src="http://via.placeholder.com/1350x750" class="img-responsive h5" alt="Thrive — Membershops and Packages"></p>
 				<p>It’s our goal to empower you to stay committed to your health. We’ve created memberships and packages, because we want you to <em>THRIVE</em>!</p>
 			</div>
 		</div>

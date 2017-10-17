@@ -49,7 +49,7 @@
   <li class="flex-item hp-4 text-center">
   	<h2 class="text-uppercase special">A life designed<br>for more.</h2>
   	<div class="col-sm-offset-2 col-sm-8">
-  		<p class="home-p">We look at the mind body connection systematically to evaluate and assess multiple systems that are interconnected and dependent on other another within the human body. We tap into multiple dimensions of neurophysiology to achieve faster outcomes and our services work together to provide holistic results for lifelong success.</p>
+  		<p class="home-p">We look at the mind body connection methodically to evaluate the systems that are interconnected within the human body. We tap into the multiple dimensions of neurophysiology to achieve faster outcomes. Our services work together to provide lifelong, holistic results.</p>
   	</div>
   </li>
   

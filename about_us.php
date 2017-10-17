@@ -37,7 +37,7 @@
 			<div class="col-md-6">
 				<h2 class="interior-headers video-header centered hidden-md hidden-lg text-uppercase">Our Mission</h2>
 				<h2 class="interior-headers hidden-xs hidden-sm text-uppercase">Our Mission</h2>
-				<p>Our mission is to responsibly better your health and enhance your wellness by focusing working as a team and providing you with a valuable customer experience.</p>
+				<p>Our mission is to responsibly better your health and enhance your wellness by working as a team and providing you with a valuable customer experience.</p>
 			</div>
 		</div>
 	</div>
@@ -257,7 +257,7 @@
 			<div class="col-sm-6 col-md-4">
 				<div class="team-thumb">
 					<figure>
-						<img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Sarah Ratti">
+						<img src="assets/images/sarah.jpg" class="img-responsive" alt="Thrive - Sarah Ratti">
 					</figure>
 					<figcaption>
 						<h4>Sarah Ratti <br>
@@ -277,7 +277,7 @@
 					  <h4 class="modal-title text-uppercase">Meet Sarah</h4>
 					</div>
 					<div class="modal-body">
-					  <p><img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Maureen Moore"></p>
+					  <p><img src="assets/images/sarah.jpg" class="img-responsive" alt="Thrive - Maureen Moore"></p>
 					  <h3>Sarah Ratti <br>
 					  <span class="small">PTA + FMS | Provider</span></h3>
 					  <h4 class="text-muted" style="margin-bottom: 20px;"><b>Biomechanics and Movement Expert</b></h4>

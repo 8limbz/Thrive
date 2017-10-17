@@ -24,16 +24,16 @@
             </a>
             <ul class="dropdown-menu">
              <li><a href="/process">The Thrive Process</a></li>
-              <li><a href="/rppt">Restorative and Performance Physical Therapy</a></li>
+              <li><a href="/rppt">Restorative + Performance Physical Therapy</a></li>
               <li><a href="/postural">Postural Restoration</a></li>
               <li><a href="massage_therapy">Massage Therapy</a></li>
-              <li><a href="/acupuncture">Acupuncture</a></li>
+              <li><a href="/acupuncture">Acupuncture + Chinese Herbology</a></li>
               <li><a href="/mental_performance">Mental Performance</a></li>
             </ul>
   		  </li>
-          <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="join-thrive">Join Thrive <span class="caret"></span></a> 
+          <li class="dropdown"><a class="dropdown-toggle" data-toggle="dropdown" href="join-thrive">For Clients <span class="caret"></span></a> 
           	<ul class="dropdown-menu">
-          		<li><a href="/memberships_packages">Memberships + Packages</a></li>
+          		<li><a href="/join_thrive">Join Thrive</a></li>
           		<li><a href="/testimonials">Testimonials</a></li>
           		<li><a href="/rewards">Earn Rewards</a></li>
           		<li><a href="/pricing_insurance">Pricing + Insurance</a></li>
