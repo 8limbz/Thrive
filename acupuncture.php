@@ -55,14 +55,14 @@
 			</div>
 			<div class="col-sm-4">
 				<h3>Follow-up Session <br>
-				<span class="small">60 mins at $129</span></h3>
+				<span class="small">30 mins at $49</span></h3>
 				<p>
 					<a href="https://clients.mindbodyonline.com/classic/ws?studioid=691320&stype=-9&sTG=6&sView=day&sLoc=0" target="_blank" class="btn btn-primary">Book Now</a>
 				</p>
 			</div>
 			<div class="col-sm-4">
 				<h3>Session Add-on <br>
-				<span class="small">90 mins at $159</span></h3>
+				<span class="small">$30</span></h3>
 				<p class="small">
 					Add an acupuncture session to any additional physical therapy, massage therapy, or mental performance service.
 				</p>

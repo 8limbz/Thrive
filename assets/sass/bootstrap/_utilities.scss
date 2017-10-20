@@ -36,6 +36,9 @@
 .text-hide {
   @include text-hide;
 }
+.disabled {
+	color: $gray;
+}
 
 
 // Hide from screenreaders and browsers

@@ -51,22 +51,9 @@
 <!--Memberships and Packages-->
 <div class="container spacing">
 	<div class="row">
-		<div class="col-md-offset-2 col-md-4">
-			<p><img src="http://via.placeholder.com/1350x750" class="img-responsive" alt="Thrive — Restorative and Performance Physical Therapy"></p>
-		</div>
-		<div class="col-sm-4">
-			<div class="hidden-md hidden-lg text-center col-sm-offset-2 col-sm-8">
-				<h2 class="interior-headers video-header centered text-uppercase">Memberships<br>+ Packages</h2>
-				<p>It’s our goal to empower you to stay committed to your health. We’ve created memberships and packages, because we want you to <strong>Thrive</strong>!</p>
-			</div>
-			<div class="hidden-xs hidden-sm">
-				<h2 class="interior-headers text-uppercase">Memberships<br>+ Packages</h2>
-				<p>It’s our goal to empower you to stay committed to your health. We’ve created memberships and packages, because we want you to <strong>Thrive</strong>!</p>
-			</div>
-		</div>
-		
-		<div class="col-md-offset-2 col-md-8">
-			<hr>
+		<div class="col-sm-offset-2 col-sm-8 text-center">
+			<h2 class="interior-headers centered text-uppercase">Memberships<br>+ Packages</h2>
+			<p>It’s our goal to empower you to stay committed to your health. We’ve created memberships and packages, because we want you to <strong>Thrive</strong>!</p>
 		</div>
 	</div>
 	

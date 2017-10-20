@@ -77,7 +77,7 @@
 			<div class="col-sm-6 col-md-4">
 				<div class="team-thumb">
 					<figure>
-						<img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Julie Blandin">
+						<img src="/assets/images/team/julie.jpg" class="img-responsive" alt="Thrive - Julie Blandin">
 					</figure>
 					<figcaption>
 						<h4>Julie Blandin <br>
@@ -97,7 +97,7 @@
 					  <h4 class="modal-title text-uppercase">Meet Julie</h4>
 					</div>
 					<div class="modal-body">
-					  <p><img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Julie Blandin"></p>
+					  <p><img src="/assets/images/team/julie.jpg" class="img-responsive" alt="Thrive - Julie Blandin"></p>
 					  <h3>Julie Blandin <br>
 					  <span class="small">PT + ATC + CSCS + PRC  | Provider</span></h3>
 					  <h4 class="text-muted" style="margin-bottom: 20px;"><b>Biomechanical Specialist and Movement Expert</b></h4>
@@ -173,7 +173,7 @@
 			<div class="col-sm-6 col-md-4">
 				<div class="team-thumb">
 					<figure>
-						<img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Maureen Moore">
+						<img src="/assets/images/team/maureen.jpg" class="img-responsive" alt="Thrive - Maureen Moore">
 					</figure>
 					<figcaption>
 						<h4>Maureen Moore <br>
@@ -193,7 +193,7 @@
 					  <h4 class="modal-title text-uppercase">Meet Mo</h4>
 					</div>
 					<div class="modal-body">
-					  <p><img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Maureen Moore"></p>
+					  <p><img src="/assets/images/team/maureen.jpg" class="img-responsive" alt="Thrive - Maureen Moore"></p>
 					  <h3>Maureen Moore <br>
 					  <span class="small">PTA + CMT | Provider</span></h3>
 					  <h4 class="text-muted" style="margin-bottom: 20px;"><b>BioMechanical Manual Therapy Specialist</b></h4>
@@ -257,7 +257,7 @@
 			<div class="col-sm-6 col-md-4">
 				<div class="team-thumb">
 					<figure>
-						<img src="assets/images/sarah.jpg" class="img-responsive" alt="Thrive - Sarah Ratti">
+						<img src="assets/images/team/sarah.jpg" class="img-responsive" alt="Thrive - Sarah Ratti">
 					</figure>
 					<figcaption>
 						<h4>Sarah Ratti <br>
@@ -277,7 +277,7 @@
 					  <h4 class="modal-title text-uppercase">Meet Sarah</h4>
 					</div>
 					<div class="modal-body">
-					  <p><img src="assets/images/sarah.jpg" class="img-responsive" alt="Thrive - Maureen Moore"></p>
+					  <p><img src="assets/images/team/sarah.jpg" class="img-responsive" alt="Thrive - Maureen Moore"></p>
 					  <h3>Sarah Ratti <br>
 					  <span class="small">PTA + FMS | Provider</span></h3>
 					  <h4 class="text-muted" style="margin-bottom: 20px;"><b>Biomechanics and Movement Expert</b></h4>
@@ -338,7 +338,7 @@
 			<div class="col-sm-6 col-md-4">
 				<div class="team-thumb">
 					<figure>
-						<img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Tracy Heller">
+						<img src="/assets/images/team/tracy.jpg" class="img-responsive" alt="Thrive - Tracy Heller">
 					</figure>
 					<figcaption>
 						<h4>Tracy Heller <br>
@@ -358,7 +358,7 @@
 					  <h4 class="modal-title text-uppercase">Meet Tracy</h4>
 					</div>
 					<div class="modal-body">
-					  <p><img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Maureen Moore"></p>
+					  <p><img src="/assets/images/team/tracy.jpg" class="img-responsive" alt="Thrive - Maureen Moore"></p>
 					  <h3>Tracy Heller <br>
 					  <span class="small">PHD + CC-AASP + BCB | Provider</span></h3>
 					  <h4 class="text-muted" style="margin-bottom: 20px;"><b>Mental Performance Specialist</b></h4>
@@ -411,7 +411,7 @@
 			<div class="col-sm-6 col-md-4">
 				<div class="team-thumb">
 					<figure>
-						<img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Christine Sanchez">
+						<img src="/assets/images/team/christine.jpg" class="img-responsive" alt="Thrive - Christine Sanchez">
 					</figure>
 					<figcaption>
 						<h4>Christine Sanchez <br>
@@ -431,7 +431,7 @@
 					  <h4 class="modal-title text-uppercase">Meet Mo</h4>
 					</div>
 					<div class="modal-body">
-					  <p><img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Maureen Moore"></p>
+					  <p><img src="/assets/images/team/christine.jpg" class="img-responsive" alt="Thrive - Maureen Moore"></p>
 					  <h3>Christine Sanchez <br>
 					  <span class="small">PHD + CC-ASP | Provider</span></h3>
 					  <h4 class="text-muted" style="margin-bottom: 20px;"><b>Mental Performance Specialist</b></h4>
@@ -488,7 +488,7 @@
 			<div class="col-sm-6 col-md-4">
 				<div class="team-thumb">
 					<figure>
-						<img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Chantal Owen">
+						<img src="/assets/images/team/chantal.jpg" class="img-responsive" alt="Thrive - Chantal Owen">
 					</figure>
 					<figcaption>
 						<h4>Chantal Owen <br>
@@ -508,7 +508,7 @@
 					  <h4 class="modal-title text-uppercase">Meet Chantal</h4>
 					</div>
 					<div class="modal-body">
-					  <p><img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Maureen Moore"></p>
+					  <p><img src="/assets/images/team/chantal.jpg" class="img-responsive" alt="Thrive - Maureen Moore"></p>
 					  <h3>Chantal Owen <br>
 					  <span class="small">CMT + CR + CCA | Provider</span></h3>
 					  <h4 class="text-muted" style="margin-bottom: 20px;"><b>Pain Relief, Pain Management, and Relaxation Specialist</b></h4>
@@ -609,7 +609,7 @@
 			  <div class="col-sm-6 col-md-4">
 				<div class="team-thumb">
 					<figure>
-						<img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Tanisha Balarezo">
+						<img src="/assets/images/team/tanisha.jpg" class="img-responsive" alt="Thrive - Tanisha Balarezo">
 					</figure>
 					<figcaption>
 						<h4>Tanisha Balarezo</h4>
@@ -628,7 +628,7 @@
 					  <h4 class="modal-title text-uppercase">Meet Tanisha</h4>
 					</div>
 					<div class="modal-body">
-					  <p><img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Tanisha Balarezo"></p>
+					  <p><img src="/assets/images/team/tanisha.jpg" class="img-responsive" alt="Thrive - Tanisha Balarezo"></p>
 					  <h3>Tanisha Balarezo</h3>
 					  <h4 class="text-muted" style="margin-bottom: 20px;"><b>Office Assistant/Receptionist</b></h4>
 					  <p>Is a compassionate, friendly, responsible member of our team that loves to learn and solve problems. Our team depends greatly on her as she is always ready to jump in a lend a hand to get the job done.</p>
@@ -655,7 +655,7 @@
 			  <div class="col-sm-6 col-md-4">
 				<div class="team-thumb">
 					<figure>
-						<img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Courtney Hinton">
+						<img src="/assets/images/team/courtney.jpg" class="img-responsive" alt="Thrive - Courtney Hinton">
 					</figure>
 					<figcaption>
 						<h4>Courtney Hinton</h4>
@@ -674,7 +674,7 @@
 					  <h4 class="modal-title text-uppercase">Meet Courtney</h4>
 					</div>
 					<div class="modal-body">
-					  <p><img src="http://via.placeholder.com/450x400" class="img-responsive" alt="Thrive - Courtney Hinton"></p>
+					  <p><img src="/assets/images/team/courtney.jpg" class="img-responsive" alt="Thrive - Courtney Hinton"></p>
 					  <h3>Courtney Hinton</h3>
 					  <h4 class="text-muted" style="margin-bottom: 20px;"><b>Receptionist</b></h4>
 					  <p>Is spunky, energetic, and loves to have good conversations. She can be found most afternoons working the front desk ensuring that every patient need is met.</p>

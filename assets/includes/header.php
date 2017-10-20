@@ -42,6 +42,7 @@
           <li><a href="/appointments">Appointments</a></li>
           <li><a href="/join">Join Our Team</a></li>
           <li><a href="/contact_us">Contact Us</a></li>
+          <li><a href="/blog/blog-1">Blog</a></li>
         </ul>
       </div><!--/.nav-collapse -->
     </div>
