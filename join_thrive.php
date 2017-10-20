@@ -11,7 +11,7 @@
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/assets/includes/header.php'); ?>
 
 <!--Page Header-->
-<div class="jumbotron memberships">
+<div class="jumbotron jointhrive">
   <div class="container"></div>
   <div class="overlay"></div>
 </div>

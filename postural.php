@@ -41,7 +41,9 @@
 	<div class="container spacing">
 		<div class="row">
 			<div class="col-sm-offset-1 col-sm-10 col-lg-offset-2 col-lg-8">
-				<p><img src="http://via.placeholder.com/1350x750" class="img-responsive" alt="Thrive — Restorative and Performance Physical Therapy"></p>
+				<div class="embed-container">
+					<iframe src="https://player.vimeo.com/video/210752717?title=0&byline=0&portrait=0" class="embed-video" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				</div>
 			</div>
 			<div class="col-sm-offset-1 col-sm-10 col-lg-offset-2 col-lg-8">
 				<p class="small">This science helps us to effectively treat and educate patients dealing with injury and pain that can include, but aren’t limited to: various causes of back pain, sacroiliac instability, sciatica, piriformis syndrome, hip impingement, hip labral tears, spinal disc injuries, degeneration, difficulty breathing, asthma, costochondritis, scoliosis, various shoulder injuries, shoulder blade or rib clicking/pain, headaches, TMJ/TMD, neck pain, and much more.</p>

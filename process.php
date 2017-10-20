@@ -11,16 +11,21 @@
 <?php require_once($_SERVER['DOCUMENT_ROOT'].'/assets/includes/header.php'); ?>
 
 <!--Page Header-->
-<div class="jumbotron process">
-  <div class="container"></div>
-  <div class="overlay"></div>
+<div class="hidden-lg">
+	<img class="img-responsive hidden-sm hidden-md hidden-lg" src="/assets/images/page-banners/process-bg.png" alt="The Thrive Process">
+	<img class="img-responsive hidden-xs hidden-md hidden-lg" src="/assets/images/page-banners/process-bg2.png" alt="The Thrive Process">
+</div>
+<div class="hidden-xs hidden-sm">
+	<div class="jumbotron process">
+		<div class="container"></div>
+	</div>
 </div>
 	
 <!--The Thrive Process-->
 <div class="container spacing">
 	<div class="row">
 		<div class="col-md-12">
-			<p><img src="/assets/images/thrive-process.png" class="img-responsive center-block" alt="The Thrive Process Icon" style="max-width: 120px;"></p>
+			<p><img src="/assets/images/process-img.png" class="img-responsive center-block" alt="The Thrive Process Icon" style="max-width: 120px;"></p>
 			<h2 class="interior-headers centered text-uppercase">The <strong>Thrive</strong> Process</h2>
 		</div>
 		
@@ -61,7 +66,7 @@
 				<div class="clearfix"></div>
 				
 				<div class="col-xs-6 col-md-3">
-					<img src="http://via.placeholder.com/450x400" alt="Restorative and Performance Physical Therapy" class="img-responsive">
+					<img src="/assets/images/process-rppt.jpg" alt="Restorative and Performance Physical Therapy" class="img-responsive">
 					<h4>Restorative and Performance Physical Therapy</h4>
 					<p class="small">Featuring services such as Postural Restoration and Graston Technique.</p>
 					<p>
@@ -69,20 +74,20 @@
 					</p>
 				</div>
 				<div class="col-xs-6 col-md-3">
-					<img src="http://via.placeholder.com/450x400" alt="Massage Therapy" class="img-responsive">
+					<img src="/assets/images/massage.jpg" alt="Massage Therapy" class="img-responsive">
 					<h4>Massage Therapy</h4>
 					<p class="small">Featuring signature services and techniques such as reflexology and prenatal.</p>
 					<p><a href="/massage_therapy" class="btn btn-primary">Learn More</a></p>
 				</div>
 				<div class="clearfix visible-xs visible-sm"></div>
 				<div class="col-xs-6 col-md-3">
-					<img src="http://via.placeholder.com/450x400" alt="Acupuncture" class="img-responsive">
+					<img src="/assets/images/accupuncture2.jpg" alt="Acupuncture" class="img-responsive">
 					<h4>Acupuncture + Chinese Herbology</h4>
-					<p class="small">Featuring specialties such Auricular Acupuncture and the use of Oriental medicine.</p>
+					<p class="small">Featuring specialties such as Auricular Acupuncture and the use of Oriental Medicine
 					<p><a href="/acupuncture" class="btn btn-primary">Learn More</a></p>
 				</div>
 				<div class="col-xs-6 col-md-3">
-					<img src="http://via.placeholder.com/450x400" alt="Mental Performance" class="img-responsive">
+					<img src="/assets/images/mental2.jpg" alt="Mental Performance" class="img-responsive">
 					<h4>Mental Performance</h4>
 					<p class="small">Featuring services that include Capno Trainer and Biofeedback Technology.</p>
 					<p><a href="/mental_performance" class="btn btn-primary">Learn More</a></p>

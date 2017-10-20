@@ -30,7 +30,7 @@
 		<div class="row">	
 			<div class="col-sm-offset-2 col-sm-8">
 				<h2 class="interior-headers centered text-uppercase">Restorative + Performance Physical Therapy</h2>
-				<p><img src="http://via.placeholder.com/1350x750" class="img-responsive" alt="Thrive — Restorative and Performance Physical Therapy"></p>
+				<p><img src="/assets/images/rppt-img.jpg" class="img-responsive" alt="Thrive — Restorative and Performance Physical Therapy"></p>
 				<p>With advanced techniques, we aim to fix the mechanical failure that causes you to experience pain. Whether joint pain, excessive muscle tension, muscle pain, decreased or inefficient mobility, headaches, and any other symptom–we analyze and treat the body based on why the dysfunction is caused.</p>
 				<p>Our bodies are mechanical in nature and with the right kind of care, they can become mechanically re-aligned, re-calibrated, and re-balanced.</p>
 				<p>Unlike other forms of therapy, our team focuses on treating sport, orthopedic, and other injuries as part of a system, rather than as isolated injuries and symptoms. Our aim is to identify the root cause of your pain and balance the biomechanics of your body’s entire system.</p>
@@ -132,7 +132,7 @@
 			
 			<!--Dry Needling-->
 			<div class="col-sm-4">
-				<img src="http://via.placeholder.com/1350x750" class="img-responsive h5" alt="Thrive — Dry Needling">
+				<img src="/assets/images/rppt-dryneedling.jpg" class="img-responsive h5" alt="Thrive — Dry Needling">
 				<h3>Dry Needling</h3>
 				<p class="small">Powerful in treating soft tissue dysfunction, pain, neuromuscular injury and imbalance, and can boost the process of returning a patient's body to a state of balance.</p>
 				<p><a data-toggle="modal" href="#dry-needling" class="btn btn-primary">Learn More</a></p>
@@ -158,7 +158,7 @@
 			
 			<!--Vacuum Cupping-->
 			<div class="col-sm-4">
-				<img src="http://via.placeholder.com/1350x750" class="img-responsive h5" alt="Thrive — Dry Needling">
+				<img src="/assets/images/rppt-cupping.jpg" class="img-responsive h5" alt="Thrive — Dry Needling">
 				<h3>Vacuum Cupping</h3>
 				<p class="small">An ancient form of therapy that makes use of suction to create a pressure that is similar to a deep-tissue massage for the muscles.</p>
 				<p><a data-toggle="modal" href="#vacuum" class="btn btn-primary">Learn More</a></p>

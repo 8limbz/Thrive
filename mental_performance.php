@@ -67,12 +67,12 @@
 						<h3 class="text-muted text-center" style="margin-top: 30px;">What you may receive with your session:</h3>
 					</div>
 					<div class="col-sm-4">
-						<img src="http://via.placeholder.com/1350x750" class="img-responsive h5" alt="Thrive — Applied Sport and Exercise Psychology">
+						<img src="/assets/images/applied-sport.jpg" class="img-responsive h5" alt="Thrive — Applied Sport and Exercise Psychology">
 						<h4>Applied Sport and Exercise Psychology</h4>
 						<p>Interventions related to physical activities targeting enhancement of strategic goal setting, confidence, focus, managing energy levels, and visualization training.</p>
 					</div>
 					<div class="col-sm-4">
-						<img src="http://via.placeholder.com/1350x750" class="img-responsive h5" alt="Thrive — Performance Enhancement and Recovery">
+						<img src="/assets/images/performance-enh.jpg" class="img-responsive h5" alt="Thrive — Performance Enhancement and Recovery">
 						<h4>Performance Enhancement and Recovery</h4>
 						<p>Training geared towards resetting the mind-body connection post performance.</p>
 					</div>
@@ -86,12 +86,12 @@
 			<div class="container">
 				<div class="row">
 					<div class="col-sm-offset-2 col-sm-4">
-						<img src="http://via.placeholder.com/1350x750" class="img-responsive h5" alt="Thrive — Rapid Skill Acquisition">
+						<img src="/assets/images/rapid-skill.jpg" class="img-responsive h5" alt="Thrive — Rapid Skill Acquisition">
 						<h4>Rapid Skill Acquisition</h4>
 						<p>Acquiring a new skill set efficiently and executing on demand consistently.</p>
 					</div>
 					<div class="col-sm-4">
-						<img src="http://via.placeholder.com/1350x750" class="img-responsive h5" alt="Thrive — Optimize Goal Setting">
+						<img src="/assets/images/optimize-goal.jpg" class="img-responsive h5" alt="Thrive — Optimize Goal Setting">
 						<h4>Optimize Goal Setting</h4>
 						<p>Developing a strategic and deliberate plan to make goal attainment a reality.</p>
 					</div>
@@ -107,13 +107,13 @@
 		<h2 class="interior-headers centered text-uppercase">Our Specialty Techniques</h2>
 
 		<div class="col-sm-offset-2 col-sm-4">
-			<img src="http://via.placeholder.com/1350x750" class="img-responsive h5" alt="Thrive — Biofeedback Technology">
+			<img src="/assets/images/biofeedback.jpg" class="img-responsive h5" alt="Thrive — Biofeedback Technology">
 			<h3>Biofeedback Technology <br>
 			<span class="small">$30 add-on</span></h3>
 			<p>Records the way that the body responds to stressors and other specific circumstances.</p>
 		</div>
 		<div class="col-sm-4">
-			<img src="http://via.placeholder.com/1350x750" class="img-responsive h5" alt="Thrive — Capno Trainer">
+			<img src="/assets/images/capno.jpg" class="img-responsive h5" alt="Thrive — Capno Trainer">
 			<h3>Capno Trainer <br>
 			<span class="small">30$ add-on</span></h3>
 			<p>Helps to properly regulate breathing to improve recovery, practice self-regulation, and improve the mind-body connection.</p>

@@ -62,7 +62,7 @@
 		<div class="row">
 			<div class="col-sm-offset-2 col-sm-8 col-md-offset-2 col-md-8">
 				<h2 class="interior-headers centered text-uppercase">Pre-Treatment Questions</h2>
-				<p><img src="http://via.placeholder.com/1350x750" class="img-responsive" alt="Thrive — Pre-Treatment Questions"></p>
+				<p><img src="/assets/images/questions-img.jpg" class="img-responsive" alt="Thrive — Pre-Treatment Questions"></p>
 				<ul>
 					<li>
 						<p>Do I need a prescription from a physician, or preauthorization, for physical therapy?</p>

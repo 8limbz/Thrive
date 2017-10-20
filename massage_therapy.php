@@ -21,7 +21,7 @@
 		<div class="row">	
 			<div class="col-md-offset-2 col-md-8">
 				<h2 class="interior-headers centered text-uppercase">Massage Therapy</h2>
-				<p><img src="http://via.placeholder.com/1350x750" class="img-responsive h5" alt="Thrive — Massage Therapy"></p>
+				<p><img src="/assets/images/massage2.jpg" class="img-responsive h5" alt="Thrive — Massage Therapy"></p>
 				<p>With advanced techniques, we aim to fix the mechanical failure that causes you to experience pain. Whether joint pain, excessive muscle tension, muscle pain, decreased or inefficient mobility, headaches, and any other symptom–we analyze and treat the body based on why the dysfunction is caused.</p>
 			</div>
 		</div>			
@@ -105,7 +105,7 @@
 		<h2 class="interior-headers centered text-uppercase">Our Specialty Techniques</h2>
 			<!--Aromatherapy and Essential Oils-->
 			<div class="col-sm-8">
-				<img src="http://via.placeholder.com/1350x750" class="img-responsive h3" alt="Thrive — Aromatherapy and Essential Oils">
+				<img src="/assets/images/specialty.jpg" class="img-responsive h3" alt="Thrive — Aromatherapy and Essential Oils">
 			</div>
 			<div class="col-sm-4">
 				<h3>Aromatherapy and Essential Oils</h3>

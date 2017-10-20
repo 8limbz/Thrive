@@ -32,7 +32,7 @@
 				<div class="row">
 					<div class="col-sm-offset-2 col-sm-8">
 						<h2 class="interior-headers centered text-uppercase">Acupuncture + Chinese Herbology</h2>
-							<p><img src="http://via.placeholder.com/1350x750" class="img-responsive" alt="Thrive — Acupuncture"></p>
+							<p><img src="/assets/images/accupuncture3.jpg" class="img-responsive" alt="Thrive — Acupuncture"></p>
 							<p>A 3,000 year old healing technique of Traditional Oriental Medicine. The US National Institute of Health (NIH) has documented and publicized Acupuncture's safety and efficacy for treating a wide variety of health conditions.</p>
 							<p><p>This science works to treat and stimulate the balanced flow of vital energy through the body. This energy flow is known as "Qi" and is essential to good health. Qi is responsible for our overall wellbeing, self regulation and healing potential.  When it’s balance is deficient or obstructed, the body becomes vulnerable, diseased, imbalanced, and susceptible to illness or injury. It's the harmonious flow of Qi that allows us to feel positive feelings of health and vitality physically, mentally, and emotionally.</p></p>
 					</div>
@@ -81,7 +81,7 @@
 			
 			<!--Traditional Accupuncture-->
 			<div class="col-sm-4">
-				<img src="http://via.placeholder.com/1350x750" class="img-responsive h5" alt="Thrive — Traditional Acupuncture">
+				<img src="/assets/images/traditional-acu.jpg" class="img-responsive h5" alt="Thrive — Traditional Acupuncture">
 				<h3>Traditional Acupuncture</h3>
 				<p class="small">The insertion of needles into specific acupuncture points to encourage self natural healing.</p>
 				<p>
@@ -108,7 +108,7 @@
 			
 			<!--Auricular Acupuncture-->
 			<div class="col-sm-4">
-				<img src="http://via.placeholder.com/1350x750" class="img-responsive h5" alt="Thrive — Auricular Acupuncture">
+				<img src="/assets/images/auricular.jpg" class="img-responsive h5" alt="Thrive — Auricular Acupuncture">
 				<h3>Auricular Acupuncture</h3>
 				<p class="small">Stimulation of key points on the external ear surface which correlate with other areas of the body.</p>
 				<p>
@@ -133,7 +133,7 @@
 				</div><!-- /.modal-dialog -->
 			</div><!-- /.modal -->
 			<div class="col-sm-4">
-				<img src="http://via.placeholder.com/1350x750" class="img-responsive h5" alt="Thrive — Chinese Herbology">
+				<img src="/assets/images/chinese-herb.jpg" class="img-responsive h5" alt="Thrive — Chinese Herbology">
 				<h3>Chinese Herbology</h3>
 				<p class="small">The use of different formulas and combinations of plants, leaves, stems, seeds, roots, minerals and more, to harmonize the body.</p>
 				<p>

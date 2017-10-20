@@ -17,40 +17,43 @@
   overflow: hidden;
 	
 	&.about-us {
-		background-image: url("http://via.placeholder.com/3800x1800");
-//		background-image: url("/assets/images/page-banners/about-bg.jpg");
+		background-image: url("/assets/images/page-banners/about-bg.jpg");
 	}
 	&.rppt {
-		background-image: url("http://via.placeholder.com/3800x1800");
-//		background-image: url("/assets/images/page-banners/rppt-bg.jpg");
+		background-image: url("/assets/images/page-banners/rppt-bg.jpg");
+	}
+	&.process {
+		background-image: url("/assets/images/page-banners/process-bg3.png");
+		background-size: cover;
+	}
+	&.postural {
+		background-image: url("/assets/images/page-banners/postural-bg.jpg");
 	}
 	&.massage {
-		background-image: url("http://via.placeholder.com/3800x1800");
-//		background-image: url("/assets/images/page-banners/massage-bg.jpg");
+		background-image: url("/assets/images/page-banners/massage-bg.jpg");
 	}
 	&.acupuncture {
-		background-image: url("http://via.placeholder.com/3800x1800");
-//		background-image: url("/assets/images/page-banners/acupuncture-bg.jpg");
+		background-image: url("/assets/images/page-banners/acupuncture-bg.jpg");
 	}
 	&.mental {
-		background-image: url("http://via.placeholder.com/3800x1800");
-//		background-image: url("/assets/images/page-banners/mental-bg.jpg");
+		background-image: url("/assets/images/page-banners/mental-bg.jpg");
 	}
 	&.for-clients { 
 		background-image: url("http://via.placeholder.com/3800x1800");
 //		background-image: url("/assets/images/page-banners/clients-bg.jpg");
 	}
 	&.appointment {
-		background-image: url("http://via.placeholder.com/3800x1800");
-//		background-image: url("/assets/images/page-banners/appointment-bg.jpg");
+		background-image: url("/assets/images/page-banners/appointment-bg.jpg");
 	}
 	&.contact {
 		background-image: url("http://via.placeholder.com/3800x1800");
 //		background-image: url("/assets/images/page-banners/contact-bg.jpg");
 	}
 	&.join {
-		background-image: url("http://via.placeholder.com/3800x1800");
-//		background-image: url("/assets/images/page-banners/contact-bg.jpg");
+		background-image: url("/assets/images/page-banners/join-bg.jpg");
+	}
+	&.jointhrive {
+		background-image: url("/assets/images/page-banners/jointhrive-bg.jpg");
 	}
 
   h1,
